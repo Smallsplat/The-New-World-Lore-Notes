@@ -1,0 +1,4 @@
+#### **Description:**
+An elegant and average human, Highturner is the voice of the outpost and keeps everything running while dealing with the envoys of the three empires. A stoic but overworked man, he’s very aware of the many brittle cogs that keep the outpost afloat and is desperate to find ways to stabilise a very fragile balance. 
+
+Dressed in formal battle-officer blue with the sigil of the Explorers guild on each shoulder, it’s hard to find Highturner not looking well dressed and formal. Officer armour is half-plate reinforced and decorated with dyed padded leather, coated with pockets and hooks for sheathed weapons and tools and a slot for accolades to be worn.

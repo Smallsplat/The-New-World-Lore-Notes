@@ -1,0 +1,15 @@
+### Description:
+Phynitir, The God of Lost Souls, is an enigmatic figure wrapped in dark, billowing robes that shroud most of their form. Standing tall and bipedal, they boast two fiery wings, flickering with ethereal flames, A long, glowing orange beak pierces beneath a heavy hood, and four arms from the shoulders hold the tools of their power.  
+  
+Scales of judgment hang in one set of hands, delicately weighing the roots of departed souls. In another, a resonant bell, its tolls echoing through realms, guides lost spirits to the afterlife. The third pair of hands clasps the Gateways of the Damned, the pathway for souls to traverse to their final destination. The fourth hand, empty, but depicted to hold the soul of the departed while they await their divine judgement. 
+
+### Religion:
+The scripture weaves tales of a phoenix trapped in eternal rebirth that transcended mortality to become a deity. However, the specifics of this ascent to godhood remain shrouded in mystery and vaguties, locked within the folds of Phynitir's inscrutable existence.
+
+Followers of the Lost Soul fight the gods over who resides in their afterlives, either by reviving the dead by necromancy of communing with the recently deceased, in order to guide them to the afterlife they deserve. The gods are fickle beings, who add loopholes and conditions to try and claim more souls than they have worshippers, and its the role of the Lost soul to provide support for those damned to an afterlife they never wanted and forced upon them by the gods political wars. 
+
+In exchange for this service, its common for Phynitir’s followers to take a bone from the departed as remembrance and include it as a part of the daily prayers and meditation. Each morning, the collection of bones and trinkets taken from the fallen are exposed to the phoenix’s flame, and only the remains of the souls who have been truly forgotten and can re-enter the life cycle are destroyed by its heat
+
+In turn, churches of the lost soul designate a “person of remembrance”, who’s life's goal is to be remembered by as many people as possible before death, so upon their death their bones would be donated to become the tools and weapons of new members to ensure they would stay strong for generations. This person of remembrance becomes a key part of an individuals daily prayer, so that they never forget the one who is their strength. To be chosen as a your churches member of remembrance is the highest honour a church can bestow. 
+
+However, Phynitir, unlike the other gods, keeps no afterlife and stores no souls. This, combined with the antagonistic nature towards the other gods by denying and gifting souls from each other, it is up to the followers to find themselves a home within the celestial realms. This often causes followers to seek fellowship, or at least good standing, with another god to ensure their extended time after death is not one burned by spite.

@@ -1,0 +1,5 @@
+A tall, skinny and as flexible as paper on the wind grey rabbit. With huge articulate ears that express more emotion than his facial muscles ever could, he’s typically dressed in short-sleeved shirts tied up to a crop top with a styled asymmetrical cape over his left shoulder and backpack over the other. His Digigrade feet make it hard to wear anything longer than shorts that wouldn’t sacrifice his mobility to do so. 
+  
+Being a happy-go-lucky soul, Scotch likes to see the bright side of everything and tries his best to not get in his head when something rough happens. He’s also a massive flirt, throwing compliments and is secretly desperate to be loved by the people he keeps company with.  
+  
+His curiosity led him to learn the arcane arts, which got him caught up in the guild, which got him placed on a fancy new island with mega-flora and fauna ready to be found, studied and documented. While his goal is to document and research with the roamer's protection, he cares deeply for their protection and will break the rules if he needs to.

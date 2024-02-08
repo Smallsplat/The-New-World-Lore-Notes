@@ -1,0 +1,2 @@
+#### **Description:**
+A large half-elf who is as good at making drinks as she is at sharing gossip. Everything in the outpost reaches her ears and by the gods, she will have an opinion about it. Wishes only the best for everyone in the outpost, and she can be very judgemental to those who are mean to her patrons and is seen as the mother of the camp  While her kobold companions manage the food and tend to the tables, she cares about them deeply and is rumoured is where she sources most of her gossip from.

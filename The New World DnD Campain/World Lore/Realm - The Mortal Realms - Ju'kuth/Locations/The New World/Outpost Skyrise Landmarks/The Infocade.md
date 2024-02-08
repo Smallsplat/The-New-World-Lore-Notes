@@ -1,0 +1,3 @@
+The Infocade is the hub of all knowledge of the guild and the main stop of most Roamers before setting out on an expedition. Be it about fauna, flora, or the world at large, this tower of books and staff of crows will hopefully find something out for you… eventually.
+
+The top of the Infocade is also the outpost communications hub, where most Roamer’s Guides will reside while their Roamers are out on an expedition to have the fastest access to information and assistance no matter what happens in the field. This is split in two, the offices, where the envoys and officers reside, and the Lookout, which is a hangout, meeting room and observation post in one.

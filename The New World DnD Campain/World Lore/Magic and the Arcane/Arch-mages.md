@@ -1,0 +1,18 @@
+## Historical Arch-mages
+
+#### Maliketh - True Clone Self
+Maliketh was one of the youngest ever Arch-mages due to his extreme dedication on Conjuration. He created the spell "True Clone Self", which created a copy of both body and soul, but not mind. 7 Clones were created, one for each school of magic. These clones were classified by AMLS [[Caster Levels]] as level 1 casters on creation, but was deemed to have the potential to also reach arch-mage status, sharing the same soul and body of a concurrent one.
+
+Maliketh and his clones were executed by paladins of [[RANI, Of Life's Creation]] due to the creation of a soul outside of the celestial cycle. Maliketh and his clones souls were desecrated in death and denied rebirth in the cycle.  The True Clone Spell research and spell components are considered lost in the raid of his laboratory, however were secreted away by his close friend Magiscale.
+
+#### [[Staff - Professor Magiscale |Magiscale]] - True Clone Self
+Magiscale is an anomaly of Arch-mages, being the only arch-mage to reach the title with a spell made by another arch-mage. They are also one of the only arch-mages who's rank as one is a secret. Upon rescuing Arch-mage Malikeths spell research and components before the raid on his laboratory. While Magiscale was successful in casing the spell, the clone disappeared almost immediately after creation and has been missing since.
+
+Magiscales refusal to cast a 10th level but continued practice within the arcane arts hides the fact he's the first Arch-Anum in the mortal realms, and upon his attempt to cast the True Clone Self spell, was able to maintain some of his mind within the clone. This resulted in a clone with the knowledge, theories and doubt of the Arch-Anum, but not the arcane capacity. In turn, the clone fled immediately, knowing the reality that Magiscale would destroy it if would would spread, and began hunting the theories Magiscale refused to under a new name. [[Tharinoth]]. 
+
+#### Ottoenisphere - Otto's Irresistible party
+Ottoenisphere, also known as Otto, was a bard who was the root spawn of the spell "[Otto's Irresistible Dance](http://dnd5e.wikidot.com/spell:ottos-irresistible-dance)", a spell that forces the creature to dance, making them unable to defend themselves in combat as well as put on an impressive display they may not be able to otherwise. Otto's Irresistible party was the pinnacle of Ottos magical abilities, celebrating his Arch-mage status with the very spell that earned him that title.
+
+Otto's Irresistible party caused up to 10,000 people to enter a state of "partying", combining effects from [Calm emotions](http://dnd5e.wikidot.com/spell:calm-emotions), [Magnificent Mansion](https://roll20.net/compendium/dnd5e/Magnificent%20Mansion#content), [Otto's Irresistible Dance](http://dnd5e.wikidot.com/spell:ottos-irresistible-dance), [Thaumaturgy](http://dnd5e.wikidot.com/spell:thaumaturgy) and other similar spells to create the grandest party in the world, resulting in being the most famous and renowned events of recent history that lasted for 36 days.
+
+Otto was assassinated by [[The Bloodstar Assassins]], rumoured to hired by political leaders of the[[Ebonstar Syndicate]], where the party was held, who needed the workforce and army back the work. However this has been staunchly refused with reasonable evidence, citing the party was one of a golden age, citing the boon of tourism, health and communal benefits lead to more productive citizens. Bloodstar assasins are yet to reveal the source of the bounty, however have confirmed the price paid for their silence was more than any empire could muster in wealth.

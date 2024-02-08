@@ -1,0 +1,5 @@
+This Fire Genasi is a master of the draconic arts who spends all her time with her wingdrakes, Thunderclaw
+
+Stonebreaker, Ironwing and Stormrider. She acts as the transport, reconnaissance and backup for the members of the guild but mostly stays outside of the drama and politics, relying on her expertise in everything draconic and Amathist, a long-time companion. Her top priority is her wing drakes, but she does love to see the crazy beasts or wild locations the roamers call her out to drag them home from. 
+
+Thalina is outfitted in a modified Wingrider uniform: Studded Leather with padded reinforcements around impact points and a symbol of the Wingrider’s crest on the left shoulder. A pair of aviator's goggles rest on her head but rarely are worn properly along with padded boots designed to soften larger falls complete the formality with utility.

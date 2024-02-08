@@ -1,0 +1,1 @@
+The wing riders reside on these wooden walls of the outpost, where the 4 Wingdrakes and their Rider, Thalina, transport the hunts home and act as a rescue option for Roamers in need.

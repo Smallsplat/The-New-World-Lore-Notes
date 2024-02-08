@@ -1,0 +1,2 @@
+#### **Description:**
+A Lizardkin in a long bright blue wizard robe with a wizard hat with the pointy bit removed.  They are an extremely eccentric arcane wizard of the Infocade who figured out you could just keep enchanting ‘find familiar’ spells onto staffs to create an army of crows to do your bidding. Ecstatic and thrilled to find out any knowledge or facts, even if he already knows it. A stunningly powerful wizard who can essentially cast any spell he wants at a whim but only seems to do so to achieve things in the most dramatic way possible

@@ -1,0 +1,1 @@
+The hangout and meeting place for everyone in the outpost. Food, drink, a warm fire and a place to have a private conversation. Not to mention the supplies needed to sustain Roamers while out on expeditions. Guild members are not expected to pay for meals, however, excessive greed is heavily looked down on.

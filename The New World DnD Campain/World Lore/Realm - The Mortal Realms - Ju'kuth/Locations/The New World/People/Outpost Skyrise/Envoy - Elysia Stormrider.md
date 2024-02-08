@@ -1,0 +1,5 @@
+A Female Minotaur with a soft and calm demeanour, more druid than a diplomat. Elysia is a true believer in the ideals of The Kolective. She sees the unclaimed island as a symbol of the empire's commitment to unity, peace, and cooperation among its diverse citizens. She envisions the island as a place where people from all corners of every empire can come together and live. 
+
+Her outfit is more robes out of social politeness than an outfit, wearing a huge, heavy loincloth and a beaded necklace made from a thick rope. Bronze gauntlets around her writs and along the tips of her horns. A typical cultural wear of a minotaur, a sign she takes deep care of her culture. 
+
+That said, she is a soft rock who will not be pushed and knows how huge and powerful she can be. Towering nearly 10 feet tall and yet more cow than a beast, she represents the immovable defence and peace that is the Kollective perfectly.
