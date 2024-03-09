@@ -1,15 +1,15 @@
 All foods decay after a long rest or 24 hours, whichever comes first, and only one food buff is allowed active at any time. Only the baseline foods are available to start with and the players must find foods on quests or via random encounters.
 
 ### Quick Tracker:
-| Name | Saturday Squad? | Sunday Squad? | Effect | Player Under effect |
-| ---- | ---- | ---- | ---- | ---- |
-| Elven Moonfruit Salad | Yes | Yes | Grants +2 to an ability check of the players choice once |  |
-| Draconic Herb Pies |  |  | Grants +2 to any saving throw, once |  |
-| Kobold Crunchbugs |  |  | Grants +1 to attack rolls if stood next to an ally | Drop |
-| Dragonfire Chili | Yes |  | Grants Fire resistance for the day |  |
-| Dwarven Forgebread | Yes | Yes | Grants (Levelx3) temp hit points |  |
-| Nectars Warmth | Yes | Yes | Grants a very Dim light in a 15ft radius of the consumer | Hill, Kurt, Shuvu |
-| Squishballs | Yes | Yes | Increases speed by 5ft | Felis, Keth, Dandelion |
+| Name                  | Saturday Squad? | Sunday Squad? | Effect                                                   | Player Under effect |
+| --------------------- | --------------- | ------------- | -------------------------------------------------------- | ------------------- |
+| Elven Moonfruit Salad | Yes             | Yes           | Grants +2 to an ability check of the players choice once |                     |
+| Draconic Herb Pies    |                 |               | Grants +2 to any saving throw, once                      | Keth                |
+| Kobold Crunchbugs     |                 |               | Grants +1 to attack rolls if stood next to an ally       | Shuvu               |
+| Dragonfire Chili      | Yes             |               | Grants Fire resistance for the day                       |                     |
+| Dwarven Forgebread    | Yes             | Yes           | Grants (Levelx3) temp hit points                         |                     |
+| Nectars Warmth        | Yes             | Yes           | Grants a very Dim light in a 15ft radius of the consumer | Felis               |
+| Squishballs           | Yes             | Yes           | Increases speed by 5ft                                   |                     |
 
 ---
 ## Baseline:

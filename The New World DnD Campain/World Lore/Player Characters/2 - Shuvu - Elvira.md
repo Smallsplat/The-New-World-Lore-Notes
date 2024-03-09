@@ -10,8 +10,20 @@ Her family automatically decided to assume she betrayed family and the goal thei
 
 **Primary Campaign Goal:**    Find their Sister
 
+---
+### DM Notes:
+• **HP:** 37  (14 AC)
+##### Damage
+• **Burst DPR:** 2 Rounds
 
-**DM Notes:**
+ 
+• **Sustained DPR:** 
+
+##### Debuffs
+
+##### Support
+
+##### Utility
 
 
-**Spoilers:**
+#### Spoilers:

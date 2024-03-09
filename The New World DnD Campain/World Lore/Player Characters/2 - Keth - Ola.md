@@ -8,8 +8,20 @@
 
 **Primary Campaign Goal:**   Discover the Roots of the Luminae Books 
 
+---
+### DM Notes:
+• **HP:** 37  (14 AC)
+##### Damage
+• **Burst DPR:** 2 Rounds
 
-**DM Notes:**
+ 
+• **Sustained DPR:** 
+
+##### Debuffs
+
+##### Support
+
+##### Utility
 
 
-**Spoilers:**
+#### Spoilers:

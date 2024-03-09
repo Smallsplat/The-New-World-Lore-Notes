@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "63f70ffcd178566e",
+        "id": "856ad75a07ba2f25",
         "type": "tabs",
         "children": [
           {
-            "id": "4d695c57f574e4c9",
+            "id": "cd1208de5faadb84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session 10 Combined Events to hit.md",
+                "file": "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Elara Mystweaver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b95b528654e3ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The New World DnD Campain/Campaign Mechanics/Thunder's Potion Avaliblity.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 392.5
   },
   "right": {
     "id": "56970db47ced1c1f",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session 10 Combined Events to hit.md",
+                "file": "The New World DnD Campain/Campaign Mechanics/Thunder's Potion Avaliblity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session 10 Combined Events to hit.md",
+                "file": "The New World DnD Campain/Campaign Mechanics/Thunder's Potion Avaliblity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session 10 Combined Events to hit.md"
+                "file": "The New World DnD Campain/Campaign Mechanics/Thunder's Potion Avaliblity.md"
               }
             }
           }
@@ -146,29 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d695c57f574e4c9",
+  "active": "2b95b528654e3ca9",
   "lastOpenFiles": [
-    "The New World DnD Campain/Campaign Mechanics/Custom Magic Items.md",
-    "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
     "The New World DnD Campain/Campaign Mechanics/The Two-fisted Menu.md",
-    "The New World DnD Campain/Campaign Mechanics/Session 10 Combined Events to hit.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Captain Anthur.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Vaelin Shadowcloak.md",
+    "The New World DnD Campain/Campaign Mechanics/Custom Player Feats and mechanics.md",
+    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Rotating Session notes.md",
+    "The New World DnD Campain/Campaign Mechanics/Thunder's Potion Avaliblity.md",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/PHYNITIR, of Lost Souls.md",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/RANI, Of Life's Creation.md",
+    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Chapter 1 Finalle (Session 10) Combined Events to hit.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Thunders Eye.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Vaelin Shadowcloak.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Elysia Stormrider.md",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Elara Mystweaver.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Handler - Scotch.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Handler - Charlie.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/The New World Overview and History.md",
-    "The New World DnD Campain/World Lore/Magic and the Arcane/Spell levels.md",
-    "The New World DnD Campain/World Lore/Magic and the Arcane/Arch-mages.md",
-    "The New World DnD Campain/World Lore/Magic and the Arcane/Caster Levels.md",
-    "The New World DnD Campain/World Lore/Magic and the Arcane/Laylines.md",
-    "The New World DnD Campain/World Lore/Player Characters/1 - Kurt - Martin.md",
+    "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
+    "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Dragons.md",
+    "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Primordials.md",
+    "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Elementals.md",
+    "The New World DnD Campain/World Lore/Realm - The Fae Wilds/The Fae Wilds (Overview).md",
+    "The New World DnD Campain/Campaign Mechanics/Custom Magic Items.md",
+    "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds",
+    "The New World DnD Campain/World Lore/Realm - The Celestial Realms",
+    "The New World DnD Campain/World Lore/Realm - Elvanus Elani",
+    "The New World DnD Campain/World Lore/Player Characters/1 - Drop - Kuba.md",
     "The New World DnD Campain/World Lore/Player Characters/1 - Dandelion - Igor.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/Planet - Shadothra.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Ju'kuth Overview.md",
-    "The New World DnD Campain/World Lore/Realm - Luminae/Kolimate.md",
-    "The New World DnD Campain/World Lore/Realm - Avernus.md"
+    "The New World DnD Campain/World Lore/Player Characters/1 - Hill Wingrune - Agata.md",
+    "The New World DnD Campain/World Lore/Player Characters/1 - Kurt - Martin.md",
+    "The New World DnD Campain/World Lore/Player Characters/2 - Shuvu - Elvira.md",
+    "The New World DnD Campain/World Lore/Player Characters/2 - Keth - Ola.md",
+    "The New World DnD Campain/World Lore/Player Characters/2 - Felis - Gracjan.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Outpost Skyrise Landmarks/The Palicades.md",
+    "The New World DnD Campain/World Lore/World Timeline/1. The Creation of Laylines.md",
+    "1 - Kurt - Martin.pdf",
+    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes"
   ]
 }

@@ -1,0 +1,5 @@
+Primordials is a title bestowed to the oldest and most powerful elementals within Elvanus. There is one primordial for each Core element, Lightning, Fire, Cold and Acid. If a primordial were to ever die or disappear, the title is given to the next eldest. 
+
+While the title is one of great import, it rarely has any additional tasking, as the mere presence of the elementals effects the areas of the Elvanus. Upon the exceedingly rare event of something happens to one of the primordial, its common curiosity that the other elementals give the effected element space to ensure their presence within Elvanus doesn't get accidently shrouded.
+
+In turn, Primordials are usually sedentary, effecting their part of the Elvanus into an eternal storm of their prime element, however due to the sheer presence of these beings there is significant overlap, creating a realm similar, and yet more chaotic, than Ji'kuth. 

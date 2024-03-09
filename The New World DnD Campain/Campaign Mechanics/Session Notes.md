@@ -84,8 +84,71 @@ After a short rest to nurse their wounds, the sunday squad continues their scout
 ---
 ## General Notes - Session 9
 
-A new dawn saw the squads continue their adventures, with the Saturday crew scrounging up any last supplies from the shipwreck, and the Sunday crew enjoying the calming cliffs and open sea on the outer edges on this wild isle, interrupted by an early monring conversation with their guides, sharing news about the events back at base.
+A new dawn saw the squads continue their adventures, with the Saturday crew scrounging up any last supplies from the shipwreck, and the Sunday crew enjoying the calming cliffs and open sea on the outer edges on this wild isle, interrupted by an early morning conversation with their guides, sharing news about the events back at base.
 
-The news of the Rani paladin attacks, claiming the Staurday squad of being assistan to the crimes of the Archmage Maliketh, was quickly overshadowed by the introduction of a Second Magiscale who claimed to be from “A different dimension” who was adamant about the basecamp’s magiscale not knowing about them… which Charlie immediately broke. This lead to Elara, The Tomebound envoy immediately starting an argument with Commander Highturner about Magiscale clearly breaching the outpost rules.
+The news of the Rani paladin attacks, claiming the Saturday squad of being assistant to the crimes of the Archmage Maliketh, was quickly overshadowed by the introduction of a Second Magiscale who claimed to be from “A different dimension” who was adamant about the basecamp’s magiscale not knowing about them… which Charlie immediately broke. This lead to Elara, The Tomebound envoy immediately starting an argument with Commander Highturner about Magiscale clearly breaching the outpost rules.
 
-This caused the guides to be split apart and put into the envoys offices while the observation deck is used to have an official discussion with all the guides while our adventuerors continue their scouting. It was the saturdays squad to find some unique plants, only to reliase too late it was being used as bait for some crafty beasts, leading to a brutal fight where they came so close to losing one of their own. Sunday crew, however, had a fairly uneventful morning, mostly interrupted by any updates charlie could find and a rather toxic plant.
+This caused the guides to be split apart and put into the envoys offices while the observation deck is used to have an official discussion with all the guides while our adventurer's continue their scouting. It was the saturdays squad to find some unique plants, only to release too late it was being used as bait for some crafty beasts, leading to a brutal fight where they came so close to losing one of their own. Sunday crew, however, had a fairly uneventful morning, mostly interrupted by any updates Charlie could find and a rather toxic plant.
+
+---
+## General Notes - Session 9.5
+
+Nearing the end of their designated coastline checks without any other major incidents, Charlie thought to invite the Sunday squad to explore one of the few anomalies of the previous roamer group discovered before the went missing: a medium sized ship embedded within the ground just south of their location.  After some brief investigations and some theorising about its origin, it became rapidly apparent they weren't the only creatures interested in exploring around here...
+
+---
+
+## General Notes - Session 10
+
+After consolidating the battles previous, both squads were picked up by Thalina at the request of the commanders to resolve the political conflict raised by the presence of a Magiscale outside the outpost boundaries. Elara, the elven envoy of the Tomebound, declared that the agreement made with the Explorer's guild had been breached, and per said agreement, Magiscale must be removed from the island to maintain the equality between Guild and Empire.
+
+After a brief stop at the tavern to recuperate and share the bounty of new fruits they found on their adventures with Tyreen, our roamers were collected by Ironbeard to join the rest of the outpost at the observation deck of the infocade. The last to arrive, they found a spot with their guides to both observe and provide evidence against the accusations. 
+
+Elara opened their arguments with how the presence of Magiscale by the eastern roamers while on their scouting mission clearly broke Outpost Skyrise Agreements by leaving the outpost without permission. This was countered by the fact that this second Magiscale was oblivious to the identities of the roamers, as well as the Guides sharing that immediately after the interaction, they sought out the Magiscale in camp, finding him in the Infocade, oblivious to the happenings, Implying this Magiscale was a separate, identical person. 
+
+This was then pressed by Elara to prove that this Second Magiscale was a clone and not the original, with the only clone spell known to the common spellcaster being the 8th level "Clone" spell. A spell that notably makes an inert empty shell to revive into post-death. This triggered the memory of the Arch-mage Maliketh referenced by the Rani paladins, and his 10th level "Clone Self" spell, a spell that created a clone, including soul, which the roamers pointed out was omitted from Elara's statement. 
+
+Countering this, Elara declared he failed to mention the spell due to the fact the Maliketh documents were missing. An item highly sought after by the elites of the Tomebound due to their academic value, however they were deemed lost after the raid of Maliketh's laboratory. Seeing no other way to be able to defend this argument, Magiscale requested to go "get something", which was approved by the commanders, and returned with those very documents. He declared Maliketh as an old friend, and refused to allow Maliketh's work to become a collectors item to be bartered with, rescuing the documents before the laboratory raid.
+
+The reveal of this information took everyone off guard, no more than Elara themselves. After composing themselves, Elara stated that on the extremely rare chance Magiscale was able to cast the spell, (being Arch-mages being extremely rare and typically publicly known), not declaring such an event was, if nothing else, extreme negligence. 
+
+Magiscale explained that he felt no need to declare the fact he cast the spell because he had no reason to believe it worked. Upon the spells conclusion, the clone disappeared instantaneously the same way any other spell without the appropriate arcane funding would. However, with the recent news, has spent his time since the incident investigating this assumption and has no conclusive evidence to present yet, but agreed it was the most logical conclusion. 
+
+At this point, Keth realised and pointed out that this is an entirely separate accusation, one that would still keep Magiscale within outpost laws. Amathist agreed, and declared the meeting to the over and dismissed everyone. Commander Highturner invited the envoys to stay to discuss the political ramifications of the meeting while Amathist called for Drop, and the roamers who recruited him, to discuss his continued presence on the island. 
+
+Amathist's questions were as blunt as she is and while Drop's answers were not the most specific, complete, or even necessarily helpful to the argument of staying, they were truthful, and he had saved the lives of his fellow roamers more than once in battle. Actions of the present that Amathist valued more than the past. The biggest point of contention, however, was the Steel Defender, a creature Drop knew next to nothing about, yet presented both some degree of sentience and a demand to remain on the island. Amathist suggested that if Drop were to stay, he would need find out the intentions and origin of his companion as soon as possible. 
+
+With all the major meetings resolved, the roamers found themselves dismissed and with hours until sundown, and took off to their own personal quests within the outpost.
+
+• Hill took to the Infocade to hunt for more information within bestiaries to discover more about the creatures they have encountered. While they discovered similar, more well known creatures, nothing about these specific creatures were found... however, an open book on teleportation rune crafting took their attention, which with the help of Drop, they duplicated and studied.
+
+• Dandelion decided to wait for a few hours in Vaelin's office, the envoy of the Syndicate who they knew was keen to deal in Information. After scaring the teifling by jumping out of the shadows and paying the price of a flint-lock shot to the ear, a lengthy conversation to negotiate the trade of knowalge. In exchange for the locations of where Magiscale keeps his most important documents,  Vaelin would try and discover anything he could about the missing roamers. 
+
+• Felis spent his time collecting moss. Felis was happy.
+
+• Kurt delved into discovering anything alchemical upon hearing about the Sunday squads glow berries, eager to find alternative use-cases of their glowing attributes, however struggled to make much progress after finding the outpost's facilities underwhelming at best. 
+
+• Keth and Shuvu took to the tavern to drink away their stresses and discuss the entire Maliketh deal. While Keth knew a bit from the town crier back home, Shuvu shared the story from the point of view as a follower of Phyinitir, sharing how Rani declared these souls created outside the natural life-cycle and  had them hunted, executed, and desecrated them in death, preventing their return to the afterlife. 
+
+As the sun went down, each eventually found their way to their quarters for the night, finding an uneventful night of sleep, with the only curiosity discovered upon waking was the steel defender leaving clues it had left during the night. Where it went or what it did being unknown. 
+
+The morning routines were uneventful with an extremely notable outlier. As Shuvu commenced her daily prayer to her God, Phynitir, she felt the pull of a desired communion stronger than ever. One that was urgent, important, yet not hostile or scared. After much deliberating, she reached out, and wordlessly received the following message: 
+
+"Shuvu. Guider of lost souls. Servant of Phynitir. I bring news of great import. The lands you walk are blind to me, but I know of their origin. They are the root of a story lost to time. Forgotten by mortal men. A story that should not be revived. Not yet."
+
+"I leave you with guidance. Your sister is here. But, I am blind to her position, but she has not graced my scales. A blessing eternal for mortals it is that way, but a bane for your soul. Seek her. Seek the hidden boons within the isle. Return it to its hiding place. Do not let the ancient ward that blinds me fall. We must ALL remain blind."
+
+The message was not all Shuvu received, as upon the vision fading a new trinket hung around her neck, a bone Dreamcatcher with a Pheonix feather caught in its strings, a gift from her mortal god. 
+
+Oblivious to the recent happenings, both squads convened for breakfast, slowly arriving at different times as their routines and rests allowed and were greeted with some new blueprints and menu items from Ironbeard and Tyreen as they exploited the bounty of their explorations.
+
+With the morning formalities out of the way, Scotch requested to pull his squad to somewhere private to discuss matters. Upon arriving at the docks, any conversation that would have struck was interrupted by the Captain Anthur shooting himself out of his ships cannon, landing next to them, healing himself and suggesting they follow him to meet with the commanders...
+
+
+---
+## General Notes - Session 11
+
+
+
+
+---
+## General Notes - Session 12
