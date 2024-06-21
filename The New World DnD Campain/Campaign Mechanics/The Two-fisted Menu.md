@@ -4,11 +4,11 @@ All foods decay after a long rest or 24 hours, whichever comes first, and only o
 | Name                  | Saturday Squad? | Sunday Squad? | Effect                                                   | Player Under effect |
 | --------------------- | --------------- | ------------- | -------------------------------------------------------- | ------------------- |
 | Elven Moonfruit Salad | Yes             | Yes           | Grants +2 to an ability check of the players choice once |                     |
-| Draconic Herb Pies    |                 |               | Grants +2 to any saving throw, once                      | Keth                |
-| Kobold Crunchbugs     |                 |               | Grants +1 to attack rolls if stood next to an ally       | Shuvu               |
+| Draconic Herb Pies    |                 |               | Grants +2 to any saving throw, once                      |                     |
+| Kobold Crunchbugs     |                 |               | Grants +1 to attack rolls if stood next to an ally       |                     |
 | Dragonfire Chili      | Yes             |               | Grants Fire resistance for the day                       |                     |
 | Dwarven Forgebread    | Yes             | Yes           | Grants (Levelx3) temp hit points                         |                     |
-| Nectars Warmth        | Yes             | Yes           | Grants a very Dim light in a 15ft radius of the consumer | Felis               |
+| Nectars Warmth        | Yes             | Yes           | Grants a very Dim light in a 15ft radius of the consumer |                     |
 | Squishballs           | Yes             | Yes           | Increases speed by 5ft                                   |                     |
 
 ---
@@ -49,7 +49,7 @@ A potent crimson wine said to be infused with the strength and ferocity of orcs.
 *• Melee attack regenerates health Once*
 #### Alfern - Tiefling Devil's Delight:
 A dessert that's sinfully sweet, with flavours that dance on the edge of temptation. Some say it's a fiendish indulgence.
-*• Grants +2 to spellcasting DC*
+*• Grants +1 to spellcasting DC* - Cyrus
 #### Wildstars - Wildfire Magic Stew:
 A blazing-hot stew infused with arcane spices and the essence of fire elementals. Each spoonful crackles with mystic energy, leaving tongues tingling and hearts ablaze.
 *• Triggers a Wild Magic Roll!*

@@ -4,7 +4,7 @@ Phynitir, The God of Lost Souls, is an enigmatic figure wrapped in dark, billowi
 Scales of judgment hang in one set of hands, delicately weighing the roots of departed souls. In another, a resonant bell, its tolls echoing through realms, guides lost spirits to the afterlife. The third pair of hands clasps the Gateways of the Damned, the pathway for souls to traverse to their final destination. The fourth hand, empty, but depicted to hold the soul of the departed while they await their divine judgement. 
 
 ### Religion:
-The scripture weaves tales of a phoenix trapped in eternal rebirth that transcended mortality to become a deity. However, the specifics of this ascent to godhood remain shrouded in mystery and vaguties, locked within the folds of Phynitir's inscrutable existence.
+Scripture describes a phoenix trapped in eternal rebirth that transcended mortality to become a deity. However, the specifics of this ascent to godhood remain shrouded in mystery and vaguties, locked within the folds of Phynitir's inscrutable existence.
 
 Followers of the Lost Soul fight the gods over who resides in their afterlives, either by reviving the dead by necromancy of communing with the recently deceased, in order to guide them to the afterlife they deserve. The gods are fickle beings, who add loopholes and conditions to try and claim more souls than they have worshippers, and its the role of the Lost soul to provide support for those damned to an afterlife they never wanted and forced upon them by the gods political wars. 
 

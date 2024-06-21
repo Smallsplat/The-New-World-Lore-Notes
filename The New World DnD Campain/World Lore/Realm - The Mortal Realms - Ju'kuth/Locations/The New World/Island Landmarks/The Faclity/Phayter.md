@@ -1,0 +1,5 @@
+Phayter is a Cephalon, a Human Female who had her soul and consciousness tied to a crystal made mostly of arcana stored in the Command Centre. The facility itself routes all sorts of magical effects within the facility back to Phayter, including Clairvoyance, Arcane Locks, Knock, Prestidigitations, Telepathy and others that let them communicate the the residents and collect information to keep the facility running.
+
+Phayter is deeply aligned with the Eidolons and their goals, having formed connections with the defenders and given up her mortal form in order to aid in their defence. In turn, they are fully aware of the stakes and importance of their operation, and the fact it has been so long and the celestials still claim divinity is deeply distressing. 
+
+The issue phayter has is that telling the party about the Eidolons risks the secrets that have been lost to time becoming common knowledge. With the Ward being in Jikuth and now Shadowthra's Moon and the Kolimate who have been hiding the island there are at intense risk if the celestials ever hear of it. If they do, any chance to keep the island hiden 

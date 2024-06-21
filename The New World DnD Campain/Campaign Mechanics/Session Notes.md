@@ -145,10 +145,90 @@ With the morning formalities out of the way, Scotch requested to pull his squad 
 
 
 ---
-## General Notes - Session 11
+## General Notes - Session 11/12
 
+Saturday Crew, hereby known as KDHD, followed the Captain up to the commanders table, only to find out it was a projected image, and the actual captain, followed by a new face, would turn up a few moments later. 
 
+The captain shared news from the mainland, how Rani Clerics and Paladins were actively seeking ships to "The Isle of Fantasia", to significant pushback from crews due to the absurdity of the request, however talks with follows of other divinities have seemingly started, and there may be more than just Rani to worry about soon.
+
+This also came with the Introduction of Thunder a 7ft tall, flat chested, armless Female Serval Tabaxi, wearing traditional monk robes, an alchemical belt and followed by two spectral hands. Introducing herself as an alchemist and healer, hired by the captain, she can provide potions and such to the guild, as well as some direct healing if needs be.
+
+Dismissed to discuss the ramifications of the news and further steps, as well as introduce the unexpected new hire, KDHD goes into downtime
+
+Meanwhile, the Sunday crew, now known as the Mossy Boys, take time to discuss the Message Shuvu got from Phynitir. While vague, the message raises some interesting points
+• Phynitir knows about the island, but can not see it, and doesn't want to.
+• Theres hidden boons on the island
+• There's an ancient ward that needs defending
+• Shuvu's sister has not died, implying the survival of the missing squad
+• The island needs to be returned somewhere it can hide
+
+Taking this to the commanders, they also meet The captain and thunder, share "polite" greetings, and share the message with the commanders. While Amathist generally doesn't trust the gods, this information is too compelling and gives a level of direction to ignore. High tuner agrees, and dismisses the crew as well to deliberate further on what the next steps are.
+
+### Downtime events include:
+• Drop gets a quick tour of the outpost with scotch and learned Steely, his automaton, can talk to the wing drakes, much to Thaliana's frustration. In turn, he hunts down more about automatons and assists Dandelion with learning mage hand after seeing Thunders skills with her astral form.
+
+• Kurt continues his studies into the alchemical until hill and Dandi turn up with obvious lies about their success with fishing. he lashes out, confronting her insecurities about the other Magiscale and the general rush to label them as a threat despite a lack of evidence either way. Ending the day with some time to go fishing himself and to talk with Thunder.
+
+• Hill and Dandelion do some fishing with the captain, to some mediocre success. Their plan to do some research in the infocade gets interrupted by Kurts outburst, and in turn takes some time to themselves. They ask Charlie about the one interaction they had with the Magiscale clone, and end the day with a discussion with magiscale about where they stand.
+
+• Dandilion goes fishing with Hill, tries to learn mage hand by himself, and then asks Drop for help trying to learn mage hand together. 
+
+• Keth and Fleis spend most of their day learning to synergise with mounted combat, using Felis's wildshapes as a mount while Keth trying to fling spells and such without impeding Felis's attacks. 
+
+• Shuvu sends all day hunting about ways to survive underground, looking into basic trap making to try and avoid them 
+
+### Final major events
+The commanders summon both squads at some point during the afternoon/evening, sharing the information both both meetings and giving their new assignments. Kdhd are to hunt Magiscale 2 to see what his actions are on the island, while The Mossy Boys are on the hunt for this ancient ward. Secondary tasks include seeking the islands Boons and traces of the other squad.
 
 
 ---
-## General Notes - Session 12
+## General Notes - Session 13
+
+The DM, thankful that the parties have split and on separate tasking so these catch up notes can go back to being vague and short again, has the parties set out on their adventure to the northern half of the island.
+
+Both parties awake to the air being dense with unusable arcana causing magical navigation to become difficult and the air to feel heavy, that hill is uniquely immune to for unknown reasons. During breakfast, both parties are given Teleplates, teleportation backpack-styled devises designed to teleport creatures to the outpost before teleporting itself back, designed so creatures can continue being studied while reducing the risk on the wing drakes. 
+
+The mossy boys head to the Eastern part of the ravine, finding a familiar shrine they are still yet to glean information out of, a visit to the ravine, which upon seeing its depth decide to leave to the other crew, given their parties ability to fly, and find a peculiar tree. 
+
+Kdhd take to the western side of the ravine, spending the time to try and find anything of import. A small part split between a turf war and a ravine exploration finds entertainment and some cool rocks respectively. Hills immunity to the arcane energy in the air seems to be causing residual arcane build up, causing her runes to empower outside of spellcasting to the point of discomfort. 
+
+---
+### General Notes - Session 14
+
+KDHD take a trip up yet another strange road and upon finding a split, decides to take a short trip down both until someone finds something interesting. Dandi and Hill were the first to find something interesting, a bubble-blowing beast that had made its home in front of some strange ruins, which the rapid reinforcements of Drop and Kurt were able to easily dispatch but unable to capture.
+
+The Mossy Boys found themselves under attack while surrounding this elemental tree, Keth disappearing in thin air, with Shuvu almost following if it wasn't for divine intervention. The attacker escapes with a swapping teleport, switching themselves with a nearby beast to aid in their escape, which the Mossy boys captured with a single casualty thanks to a paladin who couldn't stop critting.
+
+---
+### General Notes - Session 15
+
+The Mossy boys adventure to the northern cliffs, finding the rift where the island abruptly stops along with some sweet and enriching ferns. Upon the reports of the other squads discovery, they started heading south until some unknown magical effect sent them to magical sleep in the middle of a creatures territory. 3 exhausting wounds and the beasts defeat later, they flee west to try and find some much, much needed rest 
+
+KDHD take in their surroundings and send their fallen beast back to the camp before finally entering the facility, keeping their back to the door as the explore this unknown building, awakening an unusual being within who may hold some answers if they can help them out.... 
+
+---
+### General Notes - Session 16
+
+With the potential for ground breaking information being unlocked yet the sun going down, KDHD explores the facility west towards the dormitories for some rest to tackle both issues in one go. An extensive search of the location finds some minor useful pieces of loot and a message left from the past to the future, a missing companion sends the group into unease before a long nights rest.
+
+After a much needed rest, the Mossy boys continue their search for this northern entrance to this facility, discovering the magical remains of a large-scale battlefield. leaving more questions than answers, and no entrance in sight.
+
+---
+### General Notes - Session 17
+
+The Mossy Boys, unable to find an entrance and struggling to find clues, take an hour to escape the stresses and bond with each other, their new companion, and try fishing.... making it so that everyone in this campaign have gone fishing without any prompts. The story teller is bewildered and starts creating a list of tropical fish just in case.
+ 
+KDHD however are determined with the new day to make moves to the Databank to repair their new ally and get potential information. Between avoiding and unusual encounters, their repair begins... awakening creatures deep within the rock to come investigate
+
+---
+### General Notes - Session 18
+
+Having fended off the curious, vicious swarm while Drop repaired the databanks, KDHD take the time to rest, celebrate and repair steely. Rested, ready to go, but their main path guarded, they sneak south to explore what other goodies the facility has to offer.
+
+Returning back to the case, the Mossy Boys venture back to the scene to find this northern entrance, where the loud, piercing whines of KDHD's repairs could be heard to guide them. Felis using his wildshape to dig a tunnel in, they stumble their way into the facility themselves and start to explore whatever secrets this side holds...
+
+
+---
+### General Notes - Session 19
+
+Newly equipped with new toys and an earworm in their head, KDHD decide its time to see what they can learn from their newly repaired friend. Barely escaping the predator that guards the caves and a long and deep conversation later, the party leaves the facility with information that would shake the resolve of any priest...

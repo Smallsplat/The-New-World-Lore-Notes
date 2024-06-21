@@ -5,7 +5,7 @@ During the [[2. Celestial War Of Mortality|Celestial War Of Mortality]], the Eid
 
 The Island of Fantasia was teleported to the Moon of [[Planet - Shadothra|Shadothra]] called Gemi, dispersing the terrain grounding the eidolon layline, making traversal between the realms impossible. The other realms, with the time the Eidolons had brought, were able to prepare more fortified defences that resulted in the now Mortal Celestial Gods only being able to capture [[Realm - Avernus|Avernus]].
 
-On Gemi, the island's care was put to the Eidolons servants and care takers, the [[Kolimate]] who spend their time on cosmic confinement continuing the work of the Eidolons and awaiting the day the Celestials were overthrown from their claims at godhood so the eidolons could return. 
+On Gemi, the island's care was put to the Eidolons servants and care takers, the [[Kolimate]] who spend their time in cosmic confinement continuing the work of the Eidolons and awaiting the day the Celestials were overthrown from their claims at godhood so the eidolons could return. 
 
 
 ## Recent History

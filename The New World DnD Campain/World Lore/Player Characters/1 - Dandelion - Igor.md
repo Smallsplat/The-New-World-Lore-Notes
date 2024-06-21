@@ -2,7 +2,6 @@
 
 **Description:**  
 
-
 **Backstory:**
 • Kidnapped by the Fae at some point when young
 	Tricked into believing they were a Fae

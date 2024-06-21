@@ -2,9 +2,7 @@
 
 **Description:** 
 
-
 **Backstory:**
-
 • Starts as a Ranger
 	Start of Alchemy vibes - who why what?
 		• Helping people
