@@ -11,3 +11,4 @@ That said, dragons still often interact with mortals though the many ways of mag
 
 Dragon regenerate after time, however their severed limb still contains a connection to its originator, letting the dragon track down its carrier or commune through it. This can be done intentionally, letting dragons communicate with willing servants, or forced against them as prised possessions in battle, normally leading to a wrath not worthy of the reward. 
 ### Notable Dragons
+

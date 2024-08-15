@@ -232,3 +232,13 @@ Returning back to the case, the Mossy Boys venture back to the scene to find thi
 ### General Notes - Session 19
 
 Newly equipped with new toys and an earworm in their head, KDHD decide its time to see what they can learn from their newly repaired friend. Barely escaping the predator that guards the caves and a long and deep conversation later, the party leaves the facility with information that would shake the resolve of any priest...
+
+
+---
+### General Notes - Session 20
+
+Writing this maybe over a month after it happened because I'm very clever, but....
+
+KDHD Return to camp with a nights rest and try and see what they can learn from the Infocade. A hunt into the Eidolons proved fruitless, with next to no idea where to start looking and their first leads getting nowhere. Same with the hunt into Steely's core, finding more things it isn't than things it is. 
+
+A after a brief confirmation about the strange connected rocks pointing to the centre of the Planet Shadowtra, the team reconnect for lunch and look at organising their gear for their next venture back into the facility 

@@ -1,0 +1,5 @@
+Eidolons are the the most powerful creatures of the creatures within Luminae. Creativity manifest, these creatures forms are malleable and everchanging to whatever they feel best suits them in the moment. These whimsical sprites of pure creation are able to understand a person with an unnerving level of insight. 
+
+Creatures of pure joy who have the powers to change matter on a whim who see every possession and surface as a canvass for art. Their ability to alter anything smaller than a builder within moments makes them formidable and adaptive survivors, able to encase threats in beautiful web and resolve problems in impracticable but effected methods.
+
+Art comes in all forms and all are practiced by the Eidolons. from the raw imperfections of nature, to the hand-crafted masterpieces of concrete castles. From the wood and stone benefit our feet to creatures and critters of both fanfare and efficiency. 

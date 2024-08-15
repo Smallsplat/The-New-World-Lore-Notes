@@ -8,14 +8,14 @@ Current List for copy/pasting:
 #### Internal table:
 | Potion                      | Stock | Max | Recharge | Consumption Chance |
 | --------------------------- | ----- | --- | -------- | ------------------ |
-| Healing                     | 4     | 16  | 4        | -                  |
-| Greater Healing             | 4     | 8   | 2        |                    |
-| Potion of Climbing          | 1     | 8   | 2        |                    |
+| Healing                     | 12    | 16  | 4        | -                  |
+| Greater Healing             | 8     | 8   | 2        |                    |
+| Potion of Climbing          | 5     | 8   | 2        |                    |
 | Potion of Water Breathing   |       | 4   | d6 (5-6) | d12 (12)           |
-| Potion of Resistance        |       | 4   | d6 (5-6) | d12 (12)           |
-| Potion of Animal Friendship |       | 4   | d6 (5-6) | d12 (12)           |
+| Potion of Resistance        | 3     | 4   | d6 (5-6) | d12 (12)           |
+| Potion of Animal Friendship | 2     | 4   | d6 (5-6) | d12 (12)           |
 | Potion of Growth            |       | 4   | d6 (5-6) | d12 (12)           |
-| Potion of Diminution        |       | 4   | d6 (5-6) | d12 (12)           |
+| Potion of Diminution        | 2     | 4   | d6 (5-6) | d12 (12)           |
 | Potion of Heroism           |       | 4   | d6 (6)   | d12 (12)           |
 | Superior **Healing**        |       | 4   | d6 (6)   | d12 (12)           |
 | Potion of Clairvoyance      |       | 2   | d12 (12) | d6 (6)             |

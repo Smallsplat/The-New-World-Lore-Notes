@@ -8,26 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b95b528654e3ca9",
+            "id": "5d6b7d2129e0c927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The New World DnD Campain/World Lore/Player Characters/1 - Kurt - Martin.md",
+                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5d6b7d2129e0c927",
+            "id": "a703bffa8d1d37a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "The New World DnD Campain/World Lore/Player Characters/1 - Dandelion - Igor.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.7"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The New World DnD Campain/World Lore/Player Characters/1 - Dandelion - Igor.md",
+                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The New World DnD Campain/World Lore/Player Characters/1 - Dandelion - Igor.md",
+                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The New World DnD Campain/World Lore/Player Characters/1 - Dandelion - Igor.md"
+                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md"
               }
             }
           }
@@ -146,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,35 +156,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d6b7d2129e0c927",
+  "active": "a703bffa8d1d37a9",
   "lastOpenFiles": [
-    "The New World DnD Campain/World Lore/Player Characters/1 - Drop - Kuba.md",
-    "The New World DnD Campain/World Lore/Player Characters/1 - Kurt - Martin.md",
-    "The New World DnD Campain/Campaign Mechanics/The Two-fisted Menu.md",
-    "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
-    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Chapter 1 Finalle (Session 10) Combined Events to hit.md",
-    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Rotating Session notes.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Faclity/Phayter.md",
-    "The New World DnD Campain/World Lore/Player Characters/1 - Dandelion - Igor.md",
-    "The New World DnD Campain/Campaign Mechanics/Custom Player Feats and mechanics.md",
-    "The New World DnD Campain/Campaign Mechanics/Custom Magic Items.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Wingrider Thalina.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Thunders Eye.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Professor Magiscale.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Barkeep “Mother” Tyreen.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Forge-Hammer Ironbeard.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Vaelin Shadowcloak.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Elara Mystweaver.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Elysia Stormrider.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Handler - Charlie.md",
     "The New World DnD Campain/Campaign Mechanics/Thunder's Potion Avaliblity.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Facility.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Faclity/The History.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Faclity/Points of Interest.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Faclity/A Message from the Past.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Faclity",
     "The New World DnD Campain/World Lore/World Timeline/2. Celestial War Of Mortality.md",
-    "The New World DnD Campain/World Lore/World Timeline/1. The Creation of Laylines.md",
     "The New World DnD Campain/World Lore/World Timeline/3. The Primordial Time Shift.md",
     "The New World DnD Campain/World Lore/World Timeline/5. The Fae Wild Revolutions.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound.md",
-    "The New World DnD Campain/World Lore/Player Characters/2 - Felis - Gracjan.md",
-    "The New World DnD Campain/World Lore/Player Characters/2 - Shuvu - Elvira.md",
-    "The New World DnD Campain/World Lore/Player Characters/1 - Hill Wingrune - Agata.md",
-    "The New World DnD Campain/World Lore/Player Characters/2 - Keth - Ola.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/PHYNITIR, Of Lost Souls.md",
     "The New World DnD Campain/World Lore/World Timeline/4. Mortal Empire Stabilisation of the North West Continent.md",
+    "The New World DnD Campain/World Lore/World Timeline/1. The Creation of Laylines.md",
+    "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
+    "The New World DnD Campain/Campaign Mechanics/The Two-fisted Menu.md",
+    "The New World DnD Campain/World Lore/Magic and the Arcane/Spell levels.md",
+    "The New World DnD Campain/World Lore/Magic and the Arcane/Laylines and the Arcane.md",
+    "The New World DnD Campain/World Lore/Magic and the Arcane/Arch-mages.md",
+    "The New World DnD Campain/World Lore/Magic and the Arcane/Caster Levels.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Officer - Right-Hand Amathist.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Handler - Scotch.md",
+    "The New World DnD Campain/Campaign Mechanics/Custom Magic Items.md",
+    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Chapter 1 Finalle (Session 10) Combined Events to hit.md",
+    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Rotating Session notes.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Faclity",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks",
