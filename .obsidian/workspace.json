@@ -13,20 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
+                "file": "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Primordials.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Primordials"
             }
           },
           {
-            "id": "a703bffa8d1d37a9",
+            "id": "aa216aa720fb9d2f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
-              }
+                "file": "The New World DnD Campain/The New World - Session mechanics/Session Prep Notes/Rotating Session notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotating Session notes"
             }
           }
         ],
@@ -49,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +74,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,14 +84,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 388.5
   },
   "right": {
     "id": "56970db47ced1c1f",
@@ -96,15 +109,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
+                "file": "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Primordials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Primordials"
             }
           },
           {
@@ -113,10 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
+                "file": "The New World DnD Campain/The New World - Session mechanics/Session Prep Notes/Rotating Session notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rotating Session notes"
             }
           },
           {
@@ -126,8 +143,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,11 +157,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The New World DnD Campain/Campaign Mechanics/Session Notes.md"
-              }
+                "file": "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Thifthrit - Feyline.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Thifthrit - Feyline"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,42 +183,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a703bffa8d1d37a9",
+  "active": "aa216aa720fb9d2f",
   "lastOpenFiles": [
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Wingrider Thalina.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Thunders Eye.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Professor Magiscale.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Barkeep “Mother” Tyreen.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Staff - Forge-Hammer Ironbeard.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Vaelin Shadowcloak.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Elara Mystweaver.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Envoy - Elysia Stormrider.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Handler - Charlie.md",
-    "The New World DnD Campain/Campaign Mechanics/Thunder's Potion Avaliblity.md",
-    "The New World DnD Campain/World Lore/World Timeline/2. Celestial War Of Mortality.md",
-    "The New World DnD Campain/World Lore/World Timeline/3. The Primordial Time Shift.md",
-    "The New World DnD Campain/World Lore/World Timeline/5. The Fae Wild Revolutions.md",
-    "The New World DnD Campain/World Lore/World Timeline/4. Mortal Empire Stabilisation of the North West Continent.md",
-    "The New World DnD Campain/World Lore/World Timeline/1. The Creation of Laylines.md",
-    "The New World DnD Campain/Campaign Mechanics/Session Notes.md",
-    "The New World DnD Campain/Campaign Mechanics/The Two-fisted Menu.md",
-    "The New World DnD Campain/World Lore/Magic and the Arcane/Spell levels.md",
+    "The New World DnD Campain/The New World - Session mechanics/Session Prep Notes/Chapter 1 Finalle (Session 10) Combined Events to hit.md",
+    "The New World DnD Campain/The New World - Session mechanics/Session Prep Notes/Rotating Session notes.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Thifthrit - Feyline.md",
+    "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Dondri - NE.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Towns/Lagomouth - NE.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Towns/Spiritmarsh - NE.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Towns/Dewmines - NE.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Wildholm - Capital.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Kolective Empire.md",
+    "The New World DnD Campain/The Tomebound Expendables/Session Prep Notes.md",
+    "The New World DnD Campain/The New World - Session mechanics/Session Notes.md",
+    "The New World DnD Campain/The New World - Session mechanics/The Two-fisted Menu.md",
+    "The New World DnD Campain/The New World - Session mechanics/Thunder's Potion Avaliblity.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Towns",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Ju'kuth Overview.md",
     "The New World DnD Campain/World Lore/Magic and the Arcane/Laylines and the Arcane.md",
-    "The New World DnD Campain/World Lore/Magic and the Arcane/Arch-mages.md",
     "The New World DnD Campain/World Lore/Magic and the Arcane/Caster Levels.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Officer - Right-Hand Amathist.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/People/Outpost Skyrise/Handler - Scotch.md",
-    "The New World DnD Campain/Campaign Mechanics/Custom Magic Items.md",
-    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Chapter 1 Finalle (Session 10) Combined Events to hit.md",
-    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes/Rotating Session notes.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks/The Faclity",
-    "Untitled 1.canvas",
+    "The New World DnD Campain/World Lore/Magic and the Arcane/Spell levels.md",
+    "Commander.md",
+    "Tripkee01.webp",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound/Citys/City Obelisks.md",
+    "The New World DnD Campain/The Tomebound Expendables/Untitled.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/ASERIN Of The Sun's Radiance.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Untitled.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound/Tomebound.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound/Citys/Incarnium/Incarnium.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound/Citys/Incarnium/Great Library of Halvaxus.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound/Citys/Incarnium",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound/Citys",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Tomebound",
+    "The New World DnD Campain/World Lore/Player Characters/The Tomebound Expendables",
+    "The New World DnD Campain/The Tomebound Expendables",
+    "The New World DnD Campain/World Lore/Player Characters/The New World",
     "Untitled.canvas",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Locations/The New World/Island Landmarks",
-    "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds",
-    "The New World DnD Campain/World Lore/Realm - The Celestial Realms",
-    "The New World DnD Campain/World Lore/Realm - Elvanus Elani",
-    "1 - Kurt - Martin.pdf",
-    "The New World DnD Campain/Campaign Mechanics/Session Prep Notes"
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The New World/Island Landmarks/The Faclity",
+    "Untitled 1.canvas"
   ]
 }

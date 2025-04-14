@@ -1,0 +1,3 @@
+Tomebound city's being so tightly packed and condensed with people proficient with magic demand an intense amount of arcana to be directed directly into the city. To facilitate this, huge obsidian obelisks surround the major cities, acting as conduits to direct the natural arcane flow into the major population centres. 
+
+These obelisks are permanently guarded and maintain their own magical defences, as their destruction would not only be the disruption of the city itself, but a gigantic financial and time cost to re-build that make almost any cost to defend them worth the price.

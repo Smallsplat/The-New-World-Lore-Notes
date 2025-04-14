@@ -19,7 +19,7 @@
 	 Dandi follows
 
 • Guild work while the mortal realms
-	Centaur  goes to the Tomebound city closest to the layline to find magical work
+	Centaur goes to the Tomebound city closest to the layline to find magical work
 	Dandi tags along because he has no idea what to do otherwise and becomes even more dependant on mr. centaur 
 
 • Relationship break

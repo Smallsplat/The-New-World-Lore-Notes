@@ -1,0 +1,1 @@
+Incarnium is the capital of the Tomebound, stuck as close to Elemental layline without being directly inside the volcano wrapped around it. 

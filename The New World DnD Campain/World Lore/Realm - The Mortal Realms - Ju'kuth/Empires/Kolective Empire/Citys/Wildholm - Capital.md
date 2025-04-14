@@ -1,0 +1,1 @@
+Wildholm is the cultural centre of the [[Kolective Empire]]. Originally home to the Catfolk.
