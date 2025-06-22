@@ -2,7 +2,6 @@
 
 ##### [[???]]
 The Centaur tribe - ???
-
 ##### [[???]]
 The Minotaur tribe - ???
 
@@ -36,15 +35,18 @@ Being such a cultural melting pot, Thirthrit itself has no direct cuisine, but i
 #### Name Pool
 
 Shhhik - N - A smart suit with a large rounded glass jar filled with an endless void of flickering noise. Deeply unemotional but observational and aware of emotions. Shadowfell
+Tilli - Naga Researcher in the northern district 
+Bronc - Catfolk Researcher in the northern district 
+Tellari - Observatory owner
+
+Hera - 
+
+Professor Bigglewiz - A crazed inventor who is an expert on curses.
 ###### Excess male names
-Bronc
-Tellari
 Frontt
 Jera
 Kinbo
 ###### Excess female names
-Tilli
-Hera
 Peshwish
 Ulliari
 Freshliona

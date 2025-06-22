@@ -1,36 +1,37 @@
 
-• Invisible Kobold snooping to get the bag
 
-• Guild surrounds the community loging
-> Guild wants to know why the Tomebound are trying to use their guildhouse to "collect lost assets" and "bring Elara sympathisers to justice"
-> Would love to know why apprent Elara lackies would casually be using guildhouse facilities with stolen Tomebound properties with trackers
-> Would also love to know why said lackies would casually just sleep in such a public space with the most classified documents in modern history.
+Bounties: 
+• Murder Mystery.?
+> ???
 
-• Commander hightuner will comment about plan two if the players don't comply.
-> Amathist will remind him that she deals with he for-hires, let her work, and that its not the time to try and fix mistakes with that option now.
-> 	Plan two is to just execute them
+• Assassin hunt
+> Assassin is killing individuals and leaving them a calling card and leaving the body to be found.
+> > A golden coin with a symbol of a deer's skull is placed on the victims tounge
+> Is killing high value traders of the Ebonstar who are actively trying to monopolise out local stores by abusing the kindess and lower oversight of the Kolective
 
-• At this point, Charlie will enter with some magical devices to check out a small theory of theirs
-
-• The commander will take his leave. Amathyst will offer advice:
-> •Showcase where to find the trackers. tells them not to remove it, but stash them on an unsuspecting boat in port and leave the city. It'll buy them some time to clear out and be anywhere in the world
-> • Offers them small metal plates, items that are given to high-import guild leaders that prevent scrying attempts
-> • Suggests they find work within the tribes and collect some beast trinkets to get access to better work
-> • Tells them that they will be in contact. What the party knows unfortunately for them, makes them both a risk and an asset to the guild to prevent 
-
-• Charlie will then notice that gorudy has a strange energy signature, its reading fae but it doesn't sit right, its masking something with an enchantment that seems unessasarly strong 
-> Eatwo will then enter the pitcher, making Charlie audibly gasp and pull Amathists attention, saying that their theory may have just been proven
-> Amathist will be deeply frustrated, ask to confirm herself, swear again, give the apparatus back before asking Charlie if she can do something about it
-> Charlie casts a similar enchantment, weaker than the one on Gourdy for the elemental plane. they tell the party they would do good to not let people look too closely 
-
-• Amathist will them clear out the guild house of the backup, leaving her, the commander, Charlie and scotch having a conversation about next steps.
-
-Amathist opinion about Elaras plan is obvious: she hates it. She hates the entire idea of mortal gods. Her entire life has been about fixing and putting down the mistakes of over-ambitious wizards, even those she could trust. Shes on a war path, and what follows next she'll deal with then.
+• Local Mine has been over-run after breaking into an underground abandoned ruins
+> The ruins are an ancient fae - dragon temple. Marble pillars on dark grey bricks are highlighted in a pink-gold trims. 
 
 
 
-Bounties for the crew to take:
-• Delayed/Missing Trader - A few of these from different towns.
-• A Cu Sith has been sighted near the Lizard lounge - Seek to return it to the fey realm or neutralise it before citizens get harmed
-• A pack of Infested Wood-Hounds have been spotted north of the tripkee mangroves, find the nest and eradicate the pack before it reaches a population center
-• Local rune-carver has run out of Shadow-Infused arcane dust and wants to chase up on a rumour of a Namodoor spotted far south of the Dewmines. Kill if discovered and return with the corpse.
+| Stat         | 1st                  | 2nd               | 3rd                  | 4th               | 5th               | Party Ave |
+| ------------ | -------------------- | ----------------- | -------------------- | ----------------- | ----------------- | --------- |
+| Acrobatics   | Izumi           (10) | Eaone         (6) | Shu              (2) | Kaelam     (1)    | Euphrosyne (1)    | 4         |
+| Arcana       | Eaone          (11)  | Izumi        (9)  | Euphrosyne (1)       | Shu           (0) | Kaelam       (0)  | 4.2       |
+| Athletics    | Euphrosyne (13)      | Kaelam    (13)    | Shu           (8)    | Eaone       (0)   | Izumi        (0)  | 6.8       |
+| Crafting     | Eaone      (12)      | Euphrosyne (10)   | Izumi        (1)     | Kaelam      (0)   | Shu           (0) | 4.6       |
+| Deception    | Shu          (11)    | Izumi        (9)  | Eaone       (8)      | Kaelam     (1)    | Euphrosyne (-1)   | 5.8       |
+| Diplomancy   | Shu          (11)    | Izumi        (9)  | Kaelam     (8)       | Eaone       (2)   | Euphrosyne (-1)   | 5.8       |
+| Intimidation | Kaelam    (10)       | Eaone       (8)   | Euphrosyne (6)       | Shu           (4) | Izumi        (3)  | 6.2       |
+| Medicine     | Shu         (11)     | Euphrosyne (10)   | Kaelam     (2)       | Eaone       (1)   | Izumi        (0)  | 4.8       |
+| Nature       | Shu         (13)     | Euphrosyne (10)   | Kaelam       (9)     | Eaone       (7)   | Izumi        (0)  | 7.8       |
+| Occultism    | Eaone     (10)       | Izumi        (7)  | Euphrosyne (1)       | Shu           (0) | Kaelam     (0)    | 3.6       |
+| Performance  | Shu           (4)    | Izumi        (3)  | Eaone       (2)      | Kaelam      (1)   | Euphrosyne (-1)   | 1.8       |
+| Religion     | Kaelam      (9)      | Eaone       (7)   | Shu           (4)    | Euphrosyne (3)    | Izumi        (0)  | 4.6       |
+| Society      | Eaone       (4)      | Izumi        (1)  | Shu           (0)    | Kaelam       (0)  | Euphrosyne (-1)   | 0.8       |
+| Stealth      | Izumi       (10)     | Kaelam     (8)    | Eaone       (6)      | Shu           (2) | Euphrosyne (-1)   | 5         |
+| Survivial    | Shu         (11)     | Euphrosyne (10)   | Eaone       (7)      | Kaelam     (2)    | Izumi        (0)  | 6         |
+| Theivery     | Izumi        (4)     | Shu           (2) | Kaelam     (1)       | Euphrosyne (1)    | Eaone       (0)   | 1.6       |
+
+
+

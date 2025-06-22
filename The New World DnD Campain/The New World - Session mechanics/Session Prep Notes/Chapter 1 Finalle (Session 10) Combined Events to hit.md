@@ -50,7 +50,7 @@ Amathist will jump straight into questions to gauge Drops reactions. Drop will r
 		 Amathist hates it, but she has bigger problems to deal with than a walking bag of metal. 
 #### New [[The Two-fisted Menu|Foods]] to try
 
-#### New [[Custom Magic Items|Loot]] to share
+#### New [[The New World DnD Campain/The New World - Session mechanics/Custom Magic Items|Loot]] to share
 
 #### End of day activities
 • Hill will feel a pull to the Comsic planet of Shadothra tonight if she spends time outside.
