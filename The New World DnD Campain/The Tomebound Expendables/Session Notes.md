@@ -170,3 +170,15 @@ In the middle of the night, no oversight, and an artefact made by a legendary cr
 Reporting in to find Big Dog has taken rest for the night, the view does the same, waking at about new day to see the castle in its active state, full of tourists and visitors. They hand off the new map to Big Dog, who seems frustrated at their immediate "destruction" of seemingly vital evidence, yet lets them know the cargo ship ahs been docked awaiting them to let them off the island at their earliest convenience 
 
 Heading out, they board the ship and take sail to Drondi, when the ship gets intercepted by a Tomebound scout craft who seems to know that there are Tomebound fugitives onboard.... 
+
+### Session 17
+
+The crew dismantle the Tomebound wizards from their souls, defending their freedom with a hard-fought victory, spending many of their resources to succeed. With a now unoccupied boat and nobody around to stop them... they acquire a boat, make their peace with the captain who was taking them to Dondri, and head to the capital to get the ship licenced and to be literally anywhere else. 
+
+### Session 18
+
+Landing in the oversized city of Wildholm, the team try and navigate their way around this city of giants. Picking up some snacks on the go and a questionable amount of alcohol, they eventually find their way to the adventurer's guild, discovering the Guild's head quarters in this part of the continent. 
+
+They are invited for an impromptu meeting with Amathist, who's eager to learn everything related to the recent act of war by the Tomebound, along with her guest Elysia, A Kolective ambassador. They share a few details, keeping their prized contraption of environmental copying a hidden secret before Amathist suggests they should stay within the capital until things can calm down again.
+
+They take their leave, Elysia inviting the crew out on a small tour to a quiet spot around town to talk in private and get to know each other due to obvious mutual benefits. They take the team up to the 5th district in the city centre, to a quiet, hidden away converted inn to discuss the parties story and events, as they are one of the few people in this world who's actually aware of the ploys happening in the world around them. Its here where many untold secrets about the innerworkings on the Tomebound is shared to the ambassador and a few details about the island itself before everyone finally gets some rest for the night. 

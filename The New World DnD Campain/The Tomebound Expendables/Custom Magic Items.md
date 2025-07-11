@@ -8,6 +8,7 @@ This tome is initially blank with 5 pages, one for each realm. The Elemental Rea
 25 Notes - Understanding is Connection. +1 on charisma-based checks on individuals originating from this realm.
 100 Notes - Understanding is Access. Your spell list now includes spells of the appropriate school, Arcane (Fey), Divine (Celestial), Occult (Shadowfell) and Primal (Wilds, Elemental)
 
+---
 ### Pouch of Crafted Gestures,
 A rough bag made of canvass, leather or other work material. It can hold up to 3 bulk. This bag magically assists in the creation of heart-warming trinkets that help make an impression. 
 
@@ -20,6 +21,7 @@ Critical Failure: Same as failure, but the bag is unable to create trinkets unti
 
 When a trinket is gifted to a creature, the trinket loses its magical effect. These trinkets hold the same value as the resources used to craft them + One day in the Income earned table, up to double the base resource cost. For example, a Expert crafter who succeeds in crafting a Task level 5 trinket using 50sp worth of materials will make a +1 trinket worth 1gp. 
 
+---
 ### Lantern of achievements
 An iron lantern , small enough to wear on a belt that radiates a feint glitter from metal.
 
@@ -29,6 +31,7 @@ At 3+ charges, it radiates dim light in 20ft. At 6+ it radiates bright light in 
 
 1 Reaction <> Trigger:  You or an ally you can see fails a check, attack or save. You can spend 2 charges to recall the memories of success and add +1 to the roll.
 
+---
 ### Feylament Rallying Standard
 A long, fey-iron pole enhanced with a horizontal beam and a range of mounting points. Adorned with a banner of the fey dragon Astella, the banner's exact means little except to very specific people.
 
@@ -38,6 +41,7 @@ When equipped as a banner or other similar sign of presence, you gain a +1 to in
 
 Regardless of effect, the effect is shared to all allies within 15ft of the standard. 
 
+---
 ### Bracers of Cunning Apparition: 
 Usage: worn; Bulk -
 A pair of silver bracers. A red glass-like gem adorns each bracer. The contents of the gem swirl hypnotically with the slightest movement, as if encasing a void of endless stars.
@@ -57,3 +61,20 @@ If you Change Shape into a form of the same size and the same ancestry trait (hu
 On a success, you become Hidden to them.  On a failure, or upon changing to a form of a different size, there is a 50% chance (a 1 or 2 on a d4) that the observer will target the duplicate, unless they have seen through the illusion via other means or have reasonable intent otherwise.
 ##### Fox's Accomplice
 You can spend 1 minute to create an illusory duplicate of your current form without using Change Shape or of a willing creature you can touch. Duplicates created this way have the same effect as one created by Thousand-Faced Apparition, but can be instructed to do feign a chain of up to 8 tasks of any actions or downtime activities, last 8 hours instead of 1 minute and do not dissipate when others are made. 
+
+---
+### Scout Ship (4 + 1)
+
+**Price** 750 (+75)
+**Space** 75feet long, 25 feet wide, 20 feet high
+**Crew** 1 pilot; **Passengers** 6  
+**Piloting Check** Crafting ( DC 24 (-1) ), Arcana ( DC 18 (-1) )
+
+**AC** 18 (+1); **Fort** +14 (+1) 
+**Hardness** 10, **HP** 80 (+20) (**BT** 40 (+10)); **Immunities** critical hits, object immunities, precision damage; **Weaknesses** fire 10 until broken
+
+**Speed** swim 35 feet (+5) (Arcane Clockwork)  
+**Collision** 4d10 (DC 22)
+**Carrying Capacity** 300 bulk (+30) (Cargo Hold, Deck), 2 Mounting spots (Deck)
+
+---
