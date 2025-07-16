@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The New World DnD Campain/The Tomebound Expendables/Session Prep Notes.md",
+                "file": "The New World DnD Campain/The Tomebound Expendables/Custom Magic Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Prep Notes"
+              "title": "Custom Magic Items"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The New World DnD Campain/The Tomebound Expendables/Session Prep Notes.md",
+                "file": "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Prep Notes"
+              "title": "Session Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The New World DnD Campain/The Tomebound Expendables/Session Prep Notes.md",
+                "file": "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session Prep Notes"
+              "title": "Outgoing links from Session Notes"
             }
           },
           {
@@ -182,15 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa216aa720fb9d2f",
+  "active": "e54bc50a69040666",
   "lastOpenFiles": [
-    "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Wildholm, The Kolective Capital.md",
     "The New World DnD Campain/The Tomebound Expendables/Session Prep Notes.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Kolective Empire.md",
-    "The New World DnD Campain/The Tomebound Expendables/Homebrew Mechanics.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The New World/People/Outpost Skyrise/Envoy - Elysia Stormrider.md",
     "The New World DnD Campain/The Tomebound Expendables/Custom Magic Items.md",
+    "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
+    "The New World DnD Campain/The Tomebound Expendables/Homebrew Mechanics.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Wildholm, The Kolective Capital.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Kolective Empire.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The New World/People/Outpost Skyrise/Envoy - Elysia Stormrider.md",
     "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Dragons.md",
     "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Elementals.md",
     "The New World DnD Campain/World Lore/Realm - Elvanus Elani/Groups and Guilds/Primordials.md",

@@ -182,3 +182,17 @@ Landing in the oversized city of Wildholm, the team try and navigate their way a
 They are invited for an impromptu meeting with Amathist, who's eager to learn everything related to the recent act of war by the Tomebound, along with her guest Elysia, A Kolective ambassador. They share a few details, keeping their prized contraption of environmental copying a hidden secret before Amathist suggests they should stay within the capital until things can calm down again.
 
 They take their leave, Elysia inviting the crew out on a small tour to a quiet spot around town to talk in private and get to know each other due to obvious mutual benefits. They take the team up to the 5th district in the city centre, to a quiet, hidden away converted inn to discuss the parties story and events, as they are one of the few people in this world who's actually aware of the ploys happening in the world around them. Its here where many untold secrets about the innerworkings on the Tomebound is shared to the ambassador and a few details about the island itself before everyone finally gets some rest for the night. 
+
+### Session 19
+
+The team take a few days to themselves, installing tattoos, buying some equipment upgrades, earning a little cash and causing some chaos. They chase up on an Assassins bounty hunt - Shopkeeps and traders are being assassinated, and left a calling card of a golden coin with a symbol of a deer's skull, placed on the victims tounge
+
+The team work out they seem to be killing regular traders not of Kolective origin via some sort of instant physic damage due to a lack of wounds of blood. Some sort of paralysis was also used that would weaken the mental capabilities to barely functional. 
+
+They had some clues they could chase down - Checking alchemist's able to make paralysis's this strong, Ask the wizards station for any custom spells being crafted by the community, or visit the docks to see where the metals of these types were distributed to.... or they could summon a bloodhound to take them straight to the assassins hideout....
+
+Finding an abandoned smithy with a hidden basement full of racism-fuelled conspiracies and vile propaganda, the team also see the plans of a current assassination in progress - targeting a shopkeep they brought from just the day before
+
+### Session 20
+
+Combat episode - The crew had fun murdering some stupid racists assassin, the team successful and clearing out after the Warband take over the situation
