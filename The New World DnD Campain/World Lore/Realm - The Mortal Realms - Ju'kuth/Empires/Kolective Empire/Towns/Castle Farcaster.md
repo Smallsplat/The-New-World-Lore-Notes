@@ -70,3 +70,19 @@ Excess female names
 
 
 #### Player Activities
+
+
+
+
+#### Big Dog
+He will talk about his history, His enlightener, Tellarum, and his three other brothers who were his lifelong friends. How the Archmage enlightened only the ones he could trust to protect him. He was the only survivor after the Bloodstar Assassins hunted him down. 40 assassins attacked the place, only 5 made it out alive after taking Teallrum and his brothers lives. 
+
+He knows them by name. 
+Eaksati Afriani
+Terrli Holly
+Grangi Guts
+End the brothers Askri and Entri Perco
+
+They split the bounty of 5 million gold between them. Tellarum had no enemies, he lived alone in a tower deep in the Ebonstar mountains as we all know the superstition of what happens to archmages. 
+
+He knows everything about the, but is bound by code to protect his new crew. He learns what he can, and does what he can, but the Blackstar don't step foot in the Kolective much anymore for him to hunt his vengeance.

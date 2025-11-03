@@ -28,19 +28,27 @@ Hearty, filling, and dense. Soups and food types that could be eaten with some o
 Meals are huge, as the city over-grows for its population. Nobody will find themselves hungry
 
 #### Fashion
-yeah.
+Lots of silks - with the capital growing so much and growing ever more efficent farmland was swapped to grow silks and plants used by weavers to create clothing for everyone in the city - 
+
+#### Events
+
+
+#### People
+Catfolk Guild deskworker - Ryusato
 
 #### Name Pool
 Excess male names
 
-| Washashi | Ryusato | Rogmesh | Xoroku<br> | Tyrphius | Mudir | Basius |
-| -------- | ------- | ------- | ---------- | -------- | ----- | ------ |
+| Washashi | Tebari   | Rogmesh | Xoroku<br> | Tyrphius | Mudir | Basius |
+| -------- | -------- | ------- | ---------- | -------- | ----- | ------ |
+| Halicati | Naligaru | Cali    | Taff       | Galos    | Raski | Yandir |
 
 Excess female names
 
-| Dorano | Kasson | Theophane | Maebea | Zysesh | Mengea | Zareth |
-| ------ | ------ | --------- | ------ | ------ | ------ | ------ |
-
+| Dorano | Kasson | Theophane | Maebea  | Zysesh | Mengea | Zareth |
+| ------ | ------ | --------- | ------- | ------ | ------ | ------ |
+| Lilith | Urani  | Rali      | Calicos | Teffni |        |        |
+Rali
 
 #### Player Activities
 
@@ -48,7 +56,6 @@ Non-guild Quests:
 A band of Mousefolk want to steal a legendary cheese wheel which bolsters the constitution of any that eat it. They want to steal it to bring back to the nobles back in the Dewmines to celebrate a recent ore vein find. Eating the cheese increases HP.
 
 The Trader circle:
-• Alchemical Trader
-• Cuisine Trader
--
-• Runic Trader
+• Alchemical Trader - Navilos
+• Cuisine Trader - Axis
+• Runic Trader - Askanti

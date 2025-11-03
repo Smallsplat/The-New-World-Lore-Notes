@@ -21,18 +21,6 @@ After struggling to find solid ground, they settle down a while away from a rais
 
 Swapping the changing of the watch through the night along with a Gourdy to keep them company, the crew take their first uncomfortable, hard, cramped, wet, but unshackled rest.
 
-• Escape
-> Panda portal manipulation
-> Deception
-> Paralyzing gas
-> The salty mangroves
-> Kenetic stone path
-> Stone foundations
-> Crude structure
-> Fruit
-> Fishing competition
-> Lookout
-
 ### Session 2
 After their short rest, the team heads out to the bamboo-like path they spotted the previous day, following the storm into the heart of a small silent town. After a small search, they find their way to the home of the Tripkee elder where the village morning feast is being hosted. Being welcomed in and offered a small meal, the tribe disperses and the elder welcomes the new guest, however, being a happy isolated village had no work for the group. 
 
@@ -133,7 +121,7 @@ Putting some of the clues together, they toss a coin down the garden well, openi
 
 Stepping through the portal, they find themselves in a opulent room full of deactivated portals to unknown places in the world. An unknown voice demanded to understand their intent before revealing and introducing themselves as The Observer. A Shadowfell Aiskari who calls people by titles, who seems to have the ability to passively observe the memories of those around them. 
 
-They gives them a "tour" of the location, calling it "The Nexus". Showing the party and Hera a sleeping dragon infused with both elemental and Fey magic named "His majesty", and shares that this is a place of diplomacy between the different realms. He quietly tries to separate the crew, which Izumi somehow resists. 
+They give them a "tour" of the location, calling it "The Nexus". Showing the party and Hera a sleeping dragon infused with both elemental and Fey magic named "His majesty", and shares that this is a place of diplomacy between the different realms. He quietly tries to separate the crew, which Izumi somehow resists. 
 
 Each member of the part gets a simultaneous yet private conversation with the Observer. Kaelam the Planeswalker, Izumi the Realmbender, Euphrosyne The gift of the midsummer courts, Eaone the Awakened soul and Shu the Wandering spirit.
 
@@ -196,3 +184,144 @@ Finding an abandoned smithy with a hidden basement full of racism-fuelled conspi
 ### Session 20
 
 Combat episode - The crew had fun murdering some stupid racists assassin, the team successful and clearing out after the Warband take over the situation
+
+### Session 21
+
+On their way back to the guild house, the party find themselves called by the key to the nexus - which they put on hold until they can get paid. A plan that falls a little short as the bounty can't be paid until the scope of their work is confirmed and verified by the city, a task that may take until the next day. With time to spare, the crew find a tavern in district 0 that could accommodate them all and use the wardrobe lock.
+
+The nexus greets the party after Izumi eves drops on the ongoing conversation between The Observer, His Majesty, and a Satyr from the autumn fey wilds. A in-depth conversation insures, where the team was informed the the Mines bounty, claimed by another group of adventurers, contains an active community phylactery containing the souls of a collection of ancient Feyborn and Dragonkin, ancient enough for the celestials can't be allowed to get their hands on it now it's been brought back to light due to the power they would gain from their souls. 
+
+They request the party ask the guild to take over this bounty and return the soul-gems within the phylactery back to the nexus so they can be returned to their realms. However, The main issue is that the disconnection of any body from soul will lose it to the celestials, and a soul that ancient will without doubt draw their attention. 
+
+To ensure the guild will allow this party to take over an ongoing bounty, The Observer gave the crew their Aiskari Shadow-Coin to both bribe the guild and convey a chain of meaning to the guild. The crew, with promises of future dividends and a replacement of Izumi's gift, take on the task and head to the build the next day
+
+They show up to the guild and receive their pay-out from the assassins and request an impromptu meeting with Amathist. They seem to immediately recognise the coin, and have many questions and even more concerns. She allows the party to take over the quest, but assigns them a handler -a Bluebird Tengu named Scout, who seems shockingly optimistic about the situation.... despite everything. 
+
+### Session 22
+
+The crew head to the ruins with Scout on watch - for about 4 seconds before the crew immediately turn off the rings used to track their progress and observations - abandoning the guilds sole request made since their first meeting. Given the nature of the mission and the fragility of the skeletons, the party split up to find the phylactery as fast as possible after Izumi sends an invisible servant through the temple to scout without being seen to establish branching routes for the party to take.
+
+Gourdy and Shu are the first to find the objective - able to quickly smuggle it into a bag of holding to disconnect soul from body as the rest of the party is spread out across the dungeon - the threat and objective removed, they see what they can find hidden around this now long-forgotten place
+
+The crew find:
+ • **A Deep well** leads to an ancient hidden room resembling a pathway to the nexus - The room is lit by 4 Everlight crystal powered lanterns
+• An **abandoned market place** where coins from a bygone era can were collected.
+• A **communal meeting hall** with A working Flask of Fellowship and a Maestro's Instrument (flute)
+• A **drowned smithy** containing a "Flaming Star" (Ancient dragon scale)
+• A **basic Training room** with abandoned safety gear - a pair of Backfile Mantles and A pair Bracers of Missile Deflection
+And A corpse compass, seemingly used by a skeleton to ensure that the denizens are still alive. 
+
+The phylactery secured and the dungeon picked clean, the party regroup ready to return the lost souls back to the nexus
+
+### Session 23
+The party opens the door to the nexus to hand-off the souls, only to find that putting the souls inside a bag of holding had disconnected Soul from Body, effectively "killing"  the souls and trapping them in the bags sub-dimension stopping them from escaping to the divine. Without much the choice, Shu leaves the bag behind for the Nexus to discover the best way to extract the souls safely. 
+
+The observer, in his endless telepathy, realises the crew had been incredibly secretive and pushing their luck with the guild, despite the guild being on edge about the crews allegiance. He warns the party that their lives are on the lines and keeping an ally of the guild would remain the best course of action 
+
+The squad sheepishly head out, straight into the arms of Scout, who had abandoned their post instantly to watch the crew in person. Being the main person reporting back to the guild, and being typically sent on missions to confirm traitors of the guild, is over the moon that the crew arn't traitors, just incredibly strange, and is eager to help put in a good word so she can finally keep her squad.
+
+With a final check of a secret room Scout has spotted, the crew head back to the city to hand in the bounty and take some time off
+
+### Session 24
+The party takes some well earned downtime - Runes are applied by Talifus onto Euphrosyne's armour and Eaone's spell Focus while Izumi and Kaelam head to the library to see what they can learn about the Kolective and the origin of Spider Lillys. Shu finds the holy grail of Aeon stone stores - equipping himself with two new gems. 
+
+These adventures recombine at lunch to meet with Scout who had smuggled out documents relevant to the party to get them updated to the situations - The ways the Amamthist had protected the party behind closed doors and the struggles of Elaras Cult and the religious misguided hunt. 
+
+They end the day reading the magical books they collected from the ruins, turn their everlight crystals into lanterns and torches, and try and discover the value of the ancient coins they found
+
+### Session 25
+Without any immediate plans, the half the team head into the city to learn more about the other parties involved in this entire mess, particularly seeking to learn more about the gods and their worshipers, while Izumi and Kealam hit up the library again.
+
+The crew find a "Church" of the Hydrathir, which given the layout and architecture of the city displays more as an office building where services and rooms are organised per person rather than grand sermons - Which there being an apparently split between servicing "traditionalists" and  more modern means. They take time to learn what they can about the god and their service, and also seek to get their boat blessed from the recommendation of a cleric. 
+
+The book boys look into more about the guild and how it functions to minor success, and try to find out how islands of that size and scope could even float - and come up short. It does inspire the idea that maybe Izumis dreams themselves can be explored to see what information can be learned in the spaces he's been pulled into
+
+The crew head back to reconvene at a spa, however Euphrosyne gets jumped by a fey trap to lure her back to the fey wild, a trap that's denied by astronomical sheer mental will of Euphrosyne, which an onlooking Saytr from the nexus seemed surprised that they didn't need to step in after tracking the assailants. 
+
+### Session 26
+With the nightmare dodged and the crew relaxed(?) at the spontaneous spa visit, they set off to close out the last two tasks of the day - watch the boat blessing, and visit the museum to see if the fey coins had been evaluated. 
+
+The afternoon turns into a museum trip as the rest of the coins are verified for their validity, the crew spending time looking at this history of the Kolective, and walk away 825 gold richer from the raw material value of the currency!
+
+The boat blessing gives them time to also mount their stolen ballista from before they were a crew to the boat, arming it with siege weaponry before the cleric arrives, whos blessing seemed either ineffective or ignored - an uncomfortable omen given the circumstances.
+
+The night ends, and yet begins, as Izumi bends the realms of his dreams to try and summon his allies - of which Euphrosyne (and Gourdy) fell from the boundless sky into the ocean over minutes, while the rest of the team stayed by Izumis side on his island in the sky. They rush to the isles edge, spotting the vauge idea of an unknown city that seemingly can't grasp reality in this moment. 
+
+They rush to the edge to try and discover their location - at which izumi walks off the edge into the sky, seemingly lost in another reality or part of the dream, pressing on to see a different edge, one filled with islands spanning the sky before the dream ruptures and ends. 
+
+### Session 27 - 28 - 29 (The Festival of Plenty)
+The crew awake into the Festival of Plenty! With food and plant-based resources being produced on mass in the city, festivals are held to offload all the excess so it doesn't go to waste! The crew stock up, especially an excessive amount of watermelon before jumping into the festivities: 
+
+#### **Cowardice**
+A gambling game where the players must be a coward and dip out at the right time - a bar is set, and a D1000 is rolled. If the dice roll above the bar, the game continues, if not, the run ends and everyone who dipped out that round wins!
+
+The team just kept committing and lost over a gold in gambling, minus Kaelam who actually won a few silver. 
+
+#### **The City Slicks**
+The waterways that manage the rain in the city are intentionally flowing with water to allow for boat races from the top to the bottom of the city. Riders need to balance both speed and staying in the shallow canal as it bends and curves down the Wildholm streets
+
+The team scored a total of 38! Choosing to either absolutely send it in acceleration, or full break to make it around corners, barely scraping by on many bends but completing the race!
+
+#### **Fairy Shenanigans**
+While on their way to explore around the city more, the crew stumble upon a pair of fairies who pull a "prank" of bringing the produce "life", swelling in size as they stumble around attacking civilians. The team take care of the Mellon Men, Puff Persons, Aspariguys and Blue Boys with relative ease, but in the chaos lose sight of the fey that caused it. 
+
+#### **Mystic Morgon The All-Seeing Gorgon**
+A gorgon with the power to see into the weave of time - able to tell people their futures, not determined, but of the one most travelled, assuming there is a common river flow.
+
+Euphrosyne learns that her future will see her constantly in battle between her personal ideologies and the groups in the world through a true belief of doing the greater good. 
+
+Eaone's immediate future sees no path most travelled, but the infinite threads all seemed to converge where their past will come back to haunt them, some paths way sooner than others. 
+
+Izumi had the strongest river, as greater forces are guiding him to their goals. Unlike the divine though, the most common manipulators of peoples fate, this river is weak enough to be easily defied 
+
+Shu's fate, by his very nature is almost riverless - being a free sprit in both literally and figuratively. The many paths spawl in wild and different paths, where looking down any too far strays too far to be of useful information. 
+
+Kaelam, being a draconic creature should have their weave frozen. And yet, their weave moves. Slowly unwinding as time slowly reclaims them, as concerning as that is. 
+
+#### **The Shadowlife**
+A Shadowfell creature runs a game where you can pretend to survive in the Shadowfell, choosing to either Hide from or Trust the strange situations and creatures they are presented. Intentionally vague, strange, confusing or weird to make the game feel more like chance that intent
+
+Euphrosyne was the only member in the party to win the entire sequence - passing all 6 scenarios, the final one by such a small margin!
+
+#### Badass Brawlers
+A combat arena where the warbands seem to be recruiting people who show their might - a defence drone covered in shields turn damage into number, and a panel of judges score the style, strength or dexterity of the attack to combine to a final score. One of the parties from Castle Farcaster is there, which the crew hang out with for a bit, learning about auxiliary units before they throw down in the arena.
+
+Euphrosyne scored a 63. Kaelam, 77. Izumi, 84, and Eaone won, with a stunning display of 107. 
+
+These displays caused the team to be approached the rest of the night by warbands, pitching them being a part of their auxiliary team, as the displays blew expectations out of the water
+
+#### A small tangent
+Eaone was approached on the way to Badass Brawlers by a vixen, a famous Biomancer named Kacsy. A brief conversation offers Eaone to come to their saloon if they so wish, as her clients have seen Eaone around the city and their unique features as an Isolight have been in demand. Kacsy seemed oddly apologetic, as it seemed she was prepared to ask someone who had been under biomancy their source, and not an Isolight, and had to rapidly pivot their planned pitch on the fly.
+
+Eaone was also invited to visit Big Dog at his home in the outskirts of the city - another connection between Isolights. They share conversation about their origins as Isolights and how Big Dog has been collecting a small community of them - finding the people in their life that wronged them. The issue however, is Eaone was unaware of someone in their life like that, but game BD enough clues that there was someone - the lich - worth investigating. 
+
+BD also shared his backstory, how he was awoken to serve his master, the arch-mage Tellarum as a bodyguard against whatever forces hunt down archmages. He ultimate failed in his duty as an assault of 40 assassins were sent upon the tower, being the sole survivor along with 5 of the assailants: 
+> Eaksati Afriani
+> Terrli Holly
+> Grangi Guts
+> and the brothers Askri and Entri Perco
+
+He asks Eaone that if they learn any details about these people to let him know as soon as possible, and he will look out for them in kind. 
+
+The final tangent was Scout catching up with the crew, hanging out a bit but also letting them know that there's still not much movement on the Elara front - a few moves but they're sending in adventures on disruption bounties to try and delay or dismantle them as they work. 
+
+#### The Drinking Run 
+As night falls the streets of Wildholm become home to many stalls offering unique alcohols - if you down at least a shot glass worth, you earn an arm band, and the crew head out to try and collect as many as they can.
+
+Euphrosyne won after 18 glasses as Kealam just barely had to tap out at 17. Izumi quit willingly 8 drinks in, and a critical failure from Eaone saw them wipe out at 10. 
+
+
+
+With the team wiped out, drunk, a plant or a horse, the team find somewhere to crash for the night and prepare to make the most of their new resources come the morning. 
+
+### Session 30
+Izumis night is interrupted with another vision, one that takes him deep into an abandoned town on the mountain border between Kolective and Ebonstar. This town previously hidden by an ancient,. powerful rune now lays dormant, with many questions and few answers. The vision is cut short as Izumi's exploration of a ritual site is interrupted by a masked figure who compels him back into his sleeping body - incidentally revealing the location of the city relative to him.
+
+The morning crew hit the town post festivities and clean out adventures stores left and right. Most of the crew now maxing out or nearing the limit of the arcane investment capabilities. Seriously too many items were brought to bother listing, but the crew got kitted up!
+
+the evening saw a visit to Kasey the Biomancer, where the ethics and world of biological modification was explained and explored - one where Eaone opted to agree to an exclusivity deal in exchange for sharing their unique looks. 
+
+### Session 31
+The crew prepare to take leave of Wildholm by installing the ship upgrades from parts they brought or collected from the festival, setting up their ship to be a moving crafting station and place of rest. Upgrading the engine, armour, hull, and purchasing magical figurehead that lets them change the ships appearance, a long day of work turns the repurposed ship into a faster and more useful vehicle.
+
+With their newly improved vessel, they take sail to the mountains of Ebonstar, a long journey interrupted by beings of the sea which the team dealt with after a long scrap. 

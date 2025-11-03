@@ -78,3 +78,58 @@ You can spend 1 minute to create an illusory duplicate of your current form with
 **Carrying Capacity** 300 bulk (+30) (Cargo Hold, Deck), 2 Mounting spots (Deck)
 
 ---
+
+#### Sword of The Distant Shore
+Artifact 
+Deadly D8 - Two-Hand 1d10 - Versatile P - Finesse Damage 
+1d6 S; 
+Bulk 1 Hands 1 
+Type Melee; Category Martial; Group Sword, Levelled Artifact
+
+Sword of The Distant Shore is a levelled artifact. "Levelled artifacts level up as the wielder becomes more able to manage and wield the power the artifact contains. When a Levelled artifact is first equipped or levels up, the wielder must pick what abilities the artifact has access to, up to the artifacts current level. This choice is permanent, and learned abilities can not be unlearned. A levelled artifact can only level up as many times as it has abilities, and levels up at the GM's discretion, however typically it is after great feats. "
+
+The Sword of The Distant Shore's abilities can be empowered using Dreamwalking. When you use one of {sword name}'s abitlies, you can Dreamwalk as a free action. To Dreamwalk, you must beat a spell skill check equal to a DC40 Minus the total of a Will Saving throw. A Dreamwalk can not critically succeed, unless you forgo the will saving throw, at which a success becomes a critical success instead. You can Dreamwalk as many time per day {sword name}'s artifact level.
+
+**Reaction: True Spellstrike**
+Once per day, If you Spellstrike with a non-cantrip single target spell attack and miss, teleport to another enemy within 30ft of you and re-roll the strike against that target instead. 
+
+*Dreamwalk:*
+*Success: You may pick any location within 30 feet rather than another enemy*
+*Critical Success: As success, and the range increases by 60ft* 
+
+**1 Action: Mass Figmentation**
+ Once per day, You summon figments of yourself behind all enemies within 60ft until the end of your next turn. These figments are believed until you take damage or the figment is struck or inspected. These figments count for flanking bonuses.
+
+*Dreamwalk:*
+*Success: The range increases by 30ft, 
+*Critical Success: The range increases by 60ft and you may swap position with any figment created by this effect immediately, leaving a copy where you were and making targets within 5ft of you flat-footed until you next attack*
+
+**Free action: Quickcharge**
+When you recharge your spell strike, you step into the dreaming realm, letting you teleport up to your speed as a free action.
+
+*Dreamwalk:*
+*Success: You may use any 1 action ability instead of teleporting*
+*Critical Success: Recharging your spell strike itself becomes a free action (retroactively)* 
+
+**3 Action: Mental Dreamsplitter** 
+Grab the mind of an enemy you can see within 120ft and eject it into the dream realm with a will saving throw against your spell save DC. You can only do this once per enemy per day.
+Critical Failure: The target is Stunned 6.
+Failure: The target is Stunned 6, unless they take damage
+Success: The target is Stunned 2
+Critical Success: No effect
+
+*Dreamwalk:*
+*Success: Increase the spell save by +2
+Critical Success: As success, and Reduce the action cost by 1 action
+
+---
+
+### Idyllic Seed of Creation 
+
+Unique, Artifact
+
+A seed of pure cosmic energy, an eternal nebular moves with a seed big enough to fit the palm of a hand.
+
+Once per day, you can do a nature check with a DC of 25. On a success, you can create new plant life to this local ecosystem that has the abilities you decide. After doing so, using this ability again in the same local ecosystem will generate the same plant. 
+
+The plant's abilities have very few bounds, but must be within the plants physical functions and mass and abide by the world's rules - for instance, a plant that can teleport the user to another instance of it through a complex deep root system could be allowed, but a plant that teleports you to the kings treasure room for 10 minutes before returning you would not. Your GM has final say over if a plant fits within the the world. 
