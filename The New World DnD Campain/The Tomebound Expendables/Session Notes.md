@@ -310,8 +310,6 @@ As night falls the streets of Wildholm become home to many stalls offering uniqu
 
 Euphrosyne won after 18 glasses as Kealam just barely had to tap out at 17. Izumi quit willingly 8 drinks in, and a critical failure from Eaone saw them wipe out at 10. 
 
-
-
 With the team wiped out, drunk, a plant or a horse, the team find somewhere to crash for the night and prepare to make the most of their new resources come the morning. 
 
 ### Session 30
@@ -325,3 +323,31 @@ the evening saw a visit to Kasey the Biomancer, where the ethics and world of bi
 The crew prepare to take leave of Wildholm by installing the ship upgrades from parts they brought or collected from the festival, setting up their ship to be a moving crafting station and place of rest. Upgrading the engine, armour, hull, and purchasing magical figurehead that lets them change the ships appearance, a long day of work turns the repurposed ship into a faster and more useful vehicle.
 
 With their newly improved vessel, they take sail to the mountains of Ebonstar, a long journey interrupted by beings of the sea which the team dealt with after a long scrap. 
+
+### Session 32
+The party arrives in the Southern Ebonstar town of Mountport - seemingly the main stop of trade between the Ebonstar and the Kolective, and the crew experience the immediate culture shock of this new empire. Reputation as a numeric currency - one that is used for social standing, expectation and power. Earned and trading by companies for providing a service to another, the amount of public services offered for free or to as many people as possible to earn reputation on-mass. 
+
+The crew spend some time setting up the group as a company and earning some rep themselves until the day closes, finding that some Halvaxus paladins had headed out to the very city they sought. Hiring a landship in the morning to cover half the journey before putting their hands into Izumi's incredible +0 survival skills to navigate the savannas to find the location only he saw in his dreams - a place found just bearly before sunset.
+
+They enter the city quietly to find all three paladins dead, no sign of battle or trauma aside the multi-story fall from the upper city, a fall that was not the cause of death but the result of it. they make their way up, finding the paladins encampment who had ransacked most of the city before them. 
+
+The ritual site Izumi saw was now compelled crudely by the paladins and contained a sword Izumi had seen many, many times in their dream, which when touched, merged the dreaming and waking world into one, revealing a battle between the paladins sprits and unknown kitsune and human monks
+
+
+### Session 33
+Izumi relishes in the newfound but temporary power of the artifact they had manifested in their dreams many times before as the party dispatch of the remnants of these paladins, carrying them out of the sacred city so they can stop assaulting the monks, closing the dream realm and returning this ancient city to its natural, decaying state. 
+
+A rest later, the team go hunting for clues, able to translate the ancient common the notebooks were written in, discovering the knowledge of 4 clans seeking enlightenment via different means and how the divine seemed to stop their experiments, to a degree. The rune that hid the city was found and restored, but the main ritual circle was pretty hard to translate being butchered into completion via the paladins handiwork.
+
+Taking their leave with the knowledge they could find and a new artifact, the party head back - trekking through the savannahs, overhearing the news about the Tomebound denying the creation of a new city despite the obelisk forges being active. 
+
+Their trip back was interrupted by a surprise visitor through Gordy, the eidolon that awoken them now able to speak through them but temporarily due to their proximity to the layline, able to use Gourdy to communicate. They expected the crew to be so close seeking aid, especially as they had brought one of the awakened creatures near the layline, but the crew kinda didn't need them right now, and when offered the ultimate bounds of creation, asked for a sandwich, and more of the strange rocks they had found in the observatory and isle - along with a powerful gift for Shu.
+
+### Session 34
+The crews return home was interrupted with a surprise visit from a cursed pirate skeleton crew. The conversation is an odd one, with the pirates reiterating a few times they only want the dark steel the team had on them. The crew agree if they could get an few hours to remove the runes on them, which will take a few hours, so they play the Fae card game of Uno.
+
+This odd diversion ends as oddly as it starts, the crew wondering if they have the ability to summon these fellows again as they arrive back at Wildholm, finding somewhere much cheaper to dock their ship. Their attempt to meet with Amathist are unsuccessful, but Euphrosyne collected a letter from their parents and go find somewhere nice to read it.
+
+The crew link up with Scout in a district 5 park, at which scout demands to know more about our team after experiencing so many oddities that the team brushes off without question. The Nexus, the Eidolons, the weird dreams - so many questions she has about our odd little team until she finally runs out of questions, suggesting to go get food
+
+After finding a tavern, the satyr from the Nexus links up with the team, wanting to make a small point of showing up without bad news or tasking, but also a gift from Euphrosyne's parents - a brooch that when the wearer would take lethal damage would warp them back to the fey wilds, something Euphrosyne has suspicions about.

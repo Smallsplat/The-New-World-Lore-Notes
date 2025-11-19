@@ -7,7 +7,7 @@ They want the island as it’s a major central location that would create the bi
 
 ---
 
-The city seems lavish in public service, almost to the point of ridiculousness. Everyone wants their product to be used by as many people which means public services are the best way to get your company earning rep, meaning the ebonstar has some of the best living standards of any nation. parks and transport, services and venues. 
+The town seems lavish in public service, almost to the point of ridiculousness. Everyone wants their product to be used by as many people which means public services are the best way to get your company earning rep, meaning the ebonstar has some of the best living standards of any nation. parks and transport, services and venues. 
 
 Rep comes in 3 currencies - Value, Quality and Personal. Stores will often showcase their rep score in the rep the value most, with Cheap goods eagerly showing off their value rep, and luxury goods showcasing their quality rep. Some companies show off both if they strike a middle ground, however value rep is "worth less" than quality due to being much harder to generate. 
 

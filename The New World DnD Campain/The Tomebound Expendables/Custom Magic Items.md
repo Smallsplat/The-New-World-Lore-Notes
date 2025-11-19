@@ -133,3 +133,10 @@ A seed of pure cosmic energy, an eternal nebular moves with a seed big enough to
 Once per day, you can do a nature check with a DC of 25. On a success, you can create new plant life to this local ecosystem that has the abilities you decide. After doing so, using this ability again in the same local ecosystem will generate the same plant. 
 
 The plant's abilities have very few bounds, but must be within the plants physical functions and mass and abide by the world's rules - for instance, a plant that can teleport the user to another instance of it through a complex deep root system could be allowed, but a plant that teleports you to the kings treasure room for 10 minutes before returning you would not. Your GM has final say over if a plant fits within the the world. 
+
+---
+### Globe of Figmented Skies
+
+A small-globe shaped object with a mimicry of the night sky directly above. A small gear on the side when twisted projects the display out of the globe and into the space around it as 3 dimensional figments in a 25ft space around the globe. This can continue to scale up as twisted further, however projections 25m away from the globe disappear. 
+
+Due to the nature of the scale of this cosmos, in the mortal planes the initial projection causes a rush of visible stars to eject from the orb immediately, requiring a DC 15 reflex saving throw or be dazzled 1 to anyone looking directly at the globe. 

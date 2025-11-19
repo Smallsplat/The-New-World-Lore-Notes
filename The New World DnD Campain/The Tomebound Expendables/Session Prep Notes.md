@@ -1,39 +1,4 @@
 
-### The Journals of the Fox Clan
-
-• Goals of the clan is to discover and show others the wy to divinity. While theoretical, it seems possible, and the clans have gotten far through their individual methods. 
-
-*Extended mini book of the fracture isle clans*
-• Discussion over the divines actions
-• Goals of trying to find divinities with the fellow clans
-• Eagle Clan gets wiped off the map by the divine
-• Fox clan decide what they have found will have to be enough, however doing so will stop them from interacting with the other clans and leaving them to fend for themselves
-
-
-The four clans of enlightenment seek the idea of the greater mortal power. 
-
-We understand that the other realms that connect to the mortal realm leak power into the mortal realm, but this realm must have existed before them. By the nature of these realms, there is no reason our own world isn't hiding something for us. 
-
-Clan Fox, Bear, Eagle and Dragon each seek the different way. Fox seeks the land of dreams, with a focus on the mind. Bear seeks the spirit, where the soul itself can be tapped into and spent. Eagle seeks the community, where the communal ritual will earn great power. Dragon seeks communion, where instead of seeking the self, they master the 5 realms.
-
-By joining the Kitsune, the realm of the subconscious must become your playground and goal. Meditation is the channelling of the spirit and mind. Where creation and the rules of our realm are only bound by imagination. Lucidity is only the stepping stone. 
-
-
-*Personal journal*
-
-A major step forward was made by the Bear clan. A full recreation of something they've started calling the astral self. the complete spiritual restoration of a missing limb, the ability to reach further than the arm can stretch and see further than their eyes can focus. Its a major step forward, but we shall not stray from our paths. Another's success is not our own failures. 
-
-Eagle clan has managed to make some progress but with elemental magic. Their proof is complete, the first successful ritual, done by 8 proficient spellcasters to lift their islands into the sky perpetually. a stunning feat worthy of giving their city a new name - Zulimon.
-
-Finally it is our time to succeed. The membrane between the dreaming and waking worlds has been walked by some of our greatest minds - even artifacts created by pure imagination are in our hands. There is so much potential here, we just need something that can focus the mind.
-
-Rumour of the Celestials having found the secrets of mortal enlightenment has been quick to spread. But this is no enlightenment from the reports. This is more akin to the godhood written in legend than an awakening - people have started calling it divinity. However, whatever this is, there is a communal agreement between this clans, this is an affront to mortals - our realm should be wielding by us, not any of the guests who share their power with us. 
-
-Eagle clan is gone, the isle of Zulimon now a smouldering crater holding back the ocean from pure divine fury. What we know is limited, we know the island of the Eidolons has outright disappeared after the night sky was alight with battle mere nights ago - and it seems we are paying its price. This isn't just removal, this us utter obliteration designed to send a message. 
-
-The leaders of the kitsune have made a stand - one half of us consider cowardice. Instead of standing up to our new divine overlords they are escaping into the realm of dreams. One where they can restore everything the other clans have lost - even things they are yet to lose. Without us, they will have to disband or die fighting, but maybe that's for the best for our continued survival ...
-
-
 ### Euphrosyne's Parents letter
 
 Our Dear Euphrosyne,
@@ -66,43 +31,34 @@ p.s I am still furious at you at you encase my honeyed words made that tone too 
 ---
 #### Events:
 
-Post fight events - 
+Amathist meeting:
+• Elysia is there to oversee the operation being generally unhappy about everything
+• Tyreen is there so act as a spellcaster for the team to teleport them into the tomebound with her fox familiar
+• Eesk, a Kobold is there to give the team a bomb to destroy the obelisk. The device when made looks scrapped together, but upon a closer look it's just an incredibly efficient.
 
-Returning to the city a towncryer will announce the breaking news that the Tomebound have denied the construction of a new city and officials are investigating the rumours of the obalisk forges reactivation.
+The objective:
 
-On the trip back Shus eidolon will reahc out to them to offer answers, but will note their stay can only be shorts as even this conversation breaches the leyline open 
-Will leave Shu with a gift - a glimmering cosmic seed that grants him a new ability.
+They will be teleported via portal nearby the obelisk forge. Their goal is to discover as much information as they can and sabotage the forge. The explosive device must be put directly on the obelisk, at which the team has 5 minutes to clear the area. Staying undiscovered is ideal but mostly for personal saftey - while they expect most of the wizards would be no match for the party as most Tomebound wizards aren't built for combat, the sheer number of them may overwhelm the party. 
 
+They expect that they have been using the obelisk forges as an outpost too, so information, documentation, artifacts and similar items are high value and as much should be extracted as possible before detonation.
 
-
-
-
-
-The dockworker (Jill, Female Human) will point them towards the Incomers Hub to get access to the cantrip "touch rep" which us is used as the secondary currency of this empire. Rep, or Reputation is to be given out to every product or service the individual buys by using the cantrip on the products signature for 1 action. Each individual can provide a Bonus rep for 2 actions once per day, which all companies fight tooth and nail for. 
-
-Somone will note about how some Halvaxus paladins, the real scary ones with the darksteel plate headed the direction their going not more than a few days ago, refused all travels or communication aside immediate details. They obliged, of course, nobody wants to get on the wrong side of the chaos god but was as unsettling as ever. 
-
-Stewe
-Charles
-Turvin
-
+The party is tasked to get ready for the mission - both with equipment and information on the objective. They should assume they are going in with the need to quietly remove and defend themselves from many spellcasters. Silent communication, ways to move around without being detected, a way to clear the blast zone when they're done. Find a blueprint of the forges layout, find a target ingress, probably points of interest, extraction point and backup plans for when they fail.
 
 ---
 
-The City
+Eaones events:
 
-If the crew get to the city (with enough survival checks to locate it) they will find the halvaxus paladins dead. No visible damage is on their armour aside the brunt force of falling from the upper floors. Their gear has the fundamental runes expected of a higher-ranking paladin, 
+After Kasey's inspections and work, Eaone finds themselves in need of work, and with the rest of their crew heading out they seek safer employment than adventuring, finding a workshop in the Outer City called Ingustus Corp, run by the overseer Gust, A huge muscled Minotaur covered in storied marks of a life of forging.
 
+After letting Eaone prove their worth with the smaller tasks, simple level 1 items and seeing their proficiency, allows them to start working on much harder tasks with more expensive and speific materials, ones Eaone can keep as they hold little use outside the very specific items they're crafting so holding them for bulk would just be hoarding. The few days eaone works, they earn 
+25gp and create these items:
 
----
-
-Izumi's dream will take them deep into the Ebonstar mountains, into a valley between mountain ridges, surrounded by endless savannahs. Following down the valley will take them to an abandoned city built into the mile-high walls. Broken bridges and ledges hanging overhead showing a bustling city that no longer is. 
-
-The city will be filled with ancient common broken runes - wards that would hide their location, burned out inscriptions that were used store spell energy, and the center of the city held by chains is the remains of a ritual site.
-
-as Izumi explores, he will bump into objects that are not there. Insight will learn that hes colliding with objects and things that are there in the real world, things that have been hidden from this dream
-
-A figure wearing a solid wood mask can be found after discovering the ritual sight, who will hold their hand up, causing the earth under their feet to spin rapidly in the direction to Izumi's current location, snapping him out of the dream as they connect 
+<https://2e.aonprd.com/Equipment.aspx?ID=1022>
+<https://2e.aonprd.com/Equipment.aspx?ID=2625> 
+<https://2e.aonprd.com/Equipment.aspx?ID=2099>
+<https://2e.aonprd.com/Equipment.aspx?ID=3411>
+<https://2e.aonprd.com/Equipment.aspx?ID=259>
+<https://2e.aonprd.com/Equipment.aspx?ID=507>
 
 ---
 
@@ -110,22 +66,8 @@ After, The Hatter will take their leave, apologising about how short their time 
 
 The traveller will show up to catch their ride, and will promise to meet again soon, if nothing else but to show up when things aren't going to hell. 
 
----
-
-Magical item: Globe of Figmented Skies
-
-A small-globe shaped object with a mimicry of the night sky directly above. A small gear on the side when twisted projects the display out of the globe and into the space around it as 3 dimensional figments in a 25ft space around the globe. This can continue to scale up as twisted further, however projections 25m away from the globe disappear. 
-
-Due to the nature of the scale of this cosmos, in the mortal planes the initial projection causes a rush of visible stars to eject from the orb immediately, requiring a DC 15 reflex saving throw or be dazzled 1 to anyone looking directly at the globe. 
-
-
-
-
-
-
-
 --- 
-Eaone will get an invitation to meet with Big Dog privately. The conversation will imeddiatly establish that this is not about work of the world but about meeting someone else like him - an isolight species, that wasn't made alongside him.
+Eaone will get an invitation to meet with Big Dog privately. The conversation will immediately establish that this is not about work of the world but about meeting someone else like him - an isolight species, that wasn't made alongside him.
 
 He will talk about his history, His enlightener, Tellarum, and his three other brothers who were his lifelong friends. How the Archmage enlightened only the ones he could trust to protect him. He was the only survivor after the Bloodstar Assassins hunted him down. 40 assassins attacked the place, only 5 made it out alive after taking Teallrum and his brothers lives. 
 
@@ -210,8 +152,6 @@ Feyborn.
 # The Guild
 
 • Amathist will be annoyed as ususal, the guild will grant the team the Handler, Scout - A Bluebird Tengu semi-permanently - which will grant them access to the guild resources on command in exchange for the guild learning everything they see and do while on guild buisness.
-
-
 
 
 

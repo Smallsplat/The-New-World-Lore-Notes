@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d93433c51495734b",
+            "id": "79dd4c5cd20b1668",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The New World DnD Campain/The Tomebound Expendables/Custom Magic Items.md",
+                "file": "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom Magic Items"
+              "title": "Session Notes"
             }
           },
           {
-            "id": "79dd4c5cd20b1668",
+            "id": "1dab58d085cf1fe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +35,8 @@
               "title": "Session Prep Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The New World DnD Campain/The Tomebound Expendables/Custom Magic Items.md",
+                "file": "The New World DnD Campain/The Tomebound Expendables/Session Prep Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Custom Magic Items"
+              "title": "Outgoing links from Session Prep Notes"
             }
           },
           {
@@ -183,21 +184,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d93433c51495734b",
+  "active": "1dab58d085cf1fe6",
   "lastOpenFiles": [
+    "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/PHYNITIR, of Lost Souls.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/TRATIENDRA Of Eldritch Unbound.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/RANI, Of Life's Creation.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/HYDRATHIR, Of the Boundless Ocean.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/HALVAXUS Of Denied Destinies.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/ASERIN Of The Sun's Radiance.md",
     "The New World DnD Campain/The Tomebound Expendables/Session Prep Notes.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Groups and Guilds/The Four Broken Isle Enlightenment Clans.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Ebonstar Syndicate/Ebonstar Syndicate.md",
     "The New World DnD Campain/The Tomebound Expendables/Custom Magic Items.md",
+    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Ebonstar Syndicate/The Hidden Town of Mountain Ridge.md",
     "The New World DnD Campain/The New World - Session mechanics/Custom Magic Items.md",
     "The New World DnD Campain/The New World - Session mechanics/Custom Player Feats and mechanics.md",
     "The New World DnD Campain/The New World - Session mechanics/Thunder's Potion Avaliblity.md",
     "The New World DnD Campain/The New World - Session mechanics/The Two-fisted Menu.md",
     "The New World DnD Campain/The New World - Session mechanics/Session Notes.md",
-    "The New World DnD Campain/The Tomebound Expendables/Session Notes.md",
     "The New World DnD Campain/The Tomebound Expendables/Homebrew Mechanics.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Ebonstar Syndicate/Ebonstar Syndicate.md",
     "The New World DnD Campain/World Lore/Realm - Avernus.md",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Ebonstar Syndicate",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/The Mortal Gods/PHYNITIR, of Lost Souls.md",
     "The New World DnD Campain/World Lore/Magic and the Arcane/Arch-mages.md",
     "The New World DnD Campain/World Lore/Magic and the Arcane/Caster Levels.md",
     "The New World DnD Campain/World Lore/Magic and the Arcane/Laylines and the Arcane.md",
@@ -205,13 +213,6 @@
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Towns/Dewmines - NE.md",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Wildholm, The Kolective Capital/Wildholm.md",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Wildholm, The Kolective Capital/The Wildholm Museum.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Thiftrit, The Feyline City/People/Professor Bigglewiz.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Places Of Note/The Lost Collective of Felamentis.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Wildholm, The Kolective Capital/The Festival Of Plenty.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Towns/Castle Farcaster.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Dondri - NE.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Citys/Thiftrit, The Feyline City/Thifthrit.md",
-    "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Kolective Empire.md",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Empires/Kolective Empire/Places Of Note",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Groups and Guilds/The Explorers Guilds/People",
     "The New World DnD Campain/World Lore/Realm - The Mortal Realms - Ju'kuth/Groups and Guilds/The Explorers Guilds/Documents",
