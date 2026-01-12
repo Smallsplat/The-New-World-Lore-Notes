@@ -8,26 +8,31 @@ The Minotaur tribe - ???
 ???
 The Lycanthrope Tribe - ???
 
-#### Overview
-Thifthrit is the home is the realms on this continent. Creatures from around the realms arrive here to prepare their ventures into the fey wilds.
+### Overview
 
-#### Architecture
-Being a home from many realms, especially the fey, the city is a colourful, vibrant and weirdly structured city, with few straight roads. Surrounded by high walls, the remnants of the war that built this nation remain visible and integrated with the cities structure. Cannons point out to the water, still polished and functional, signs of old tech being modified and augmented with the new advancements.
+Thifthrit is the home of the realms on this continent. Creatures from around the realms and world arrive here to connect, trade and stop on their way to the fey wilds. Being a market place of culture, you won't find a more nonuniform place on the continent.
 
-Everything here however is rock, stone, and labour. Arcane functionality is deemed to unreliable and fickle so close to the layline. Beasts of burden control a lot of the apparatus, from the famous Yaks that move the Trader carts across the city, to Rotli, enlarged otter-stoat like creatures who race across the city streets.
+### Architecture
 
-#### Culture
-A rule is known by all the inhabitants here: be too useful to fuck with. Being so integrated with fey culture and their general trickery, being too valuable to be worth targeting over the punishment that would follow. Thus, Thirthrit is shockingly efficient despite any presumptions about the effects of the fey. 
+Being a home from many realms, especially the fey, the city is a colourful, vibrant and weirdly structured city, with few straight roads. Surrounded by high walls, the remnants of the war that built this nation remain visible and integrated with the city's structure. Cannons point out to the water, still polished and functional, signs of old tech being modified and augmented with the new advancements.
 
-Also being at the front of the fey wilds, there's a significant religious presence here, despite the disjointed relationship between the two. They stand at harsh junctions, seemingly to only stay in their own segments of the city, except the great shrine in the center of the city, an ancient relic upkept by tradtions whos origins are long forgotton
+Everything here, however, is rock, stone, and labour. Arcane functionality is deemed to be unreliable and fickle so close to the layline. Beasts of burden control a lot of the apparatus, from the famous Yaks that move the Trader carts across the city, to Rotli, enlarged otter-stoat-like creatures who race along the city streets.
 
-#### Imports and Exports
-Being one of the most battle-torn parts of the Kolective and right next to the fey wilds, Thifthrit is a hotbed of adventure and mercenary activity. As the beating heart of the war machine, technological advances to ensure the Kolective and their allies survival, and people willing to buy the tech that comes from it, thrive here. 
+### Culture
+
+A rule is known by all the inhabitants here: be too useful to fuck with. Being so integrated with fey culture and their general trickery, being too valuable to play pranks or disrupt to be worth over the punishment that would follow. Thus, Thirthrit is shockingly efficient despite any presumptions about the effects of the fey. 
+
+Also, being at the front of the fey wilds, there's a significant religious presence here, despite the disjointed relationship between the two. They stand at harsh junctions, seemingly to only stay in their own segments of the city, except the great shrine in the centre of the city, an ancient relic upkept by traditions whose origins are long forgotten
+
+### Imports and Exports
+
+Being one of the most battle-torn parts of the Kolective and right next to the fey wilds, Thifthrit is a hotbed of adventure and mercenary activity. As the beating heart of the war machine, technological advances to ensure the Kolective and their allies' survival, and people willing to buy the tech that comes from it, thrive here. 
 
 The other half is the fey wild exports. Entering the fey wilds is easiest done here, and thus creatures from all realms who have dealings with the fey come nest here. It's joked that Thirthrit is the centre of the planes, and it does a good job at earning that title.
 
-#### Cuisine
-Being such a cultural melting pot, Thirthrit itself has no direct cuisine, but its ties to the fey wilds makes it known as one of the few places you can access fey delicacies without entering the realm itself. 
+### Cuisine
+
+Being such a cultural melting pot, Thirthrit itself has no direct cuisine, but its ties to the fey wilds make it known as one of the few places you can access fey delicacies without entering the realm itself. 
 
 #### Fashion
 

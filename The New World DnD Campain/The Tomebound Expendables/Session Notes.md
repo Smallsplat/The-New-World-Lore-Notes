@@ -351,3 +351,57 @@ This odd diversion ends as oddly as it starts, the crew wondering if they have t
 The crew link up with Scout in a district 5 park, at which scout demands to know more about our team after experiencing so many oddities that the team brushes off without question. The Nexus, the Eidolons, the weird dreams - so many questions she has about our odd little team until she finally runs out of questions, suggesting to go get food
 
 After finding a tavern, the satyr from the Nexus links up with the team, wanting to make a small point of showing up without bad news or tasking, but also a gift from Euphrosyne's parents - a brooch that when the wearer would take lethal damage would warp them back to the fey wilds, something Euphrosyne has suspicions about.
+
+### Session 35
+After spending the night and reconnecting with Eaone, the party get their meeting with Amathist, however instead of discussing their happenings they are being sent on a high importance operation - the sabotage of a Tomebound Obelisk Forge being actively overrun by an outfit of Elara's goons. Its unclear what Elara wants the obelisks for, but they are incredibly powerful creations.
+
+The team are tasked to infiltrate the forge, collect whatever documents are valuable, learn everything they can with the benefit of knowing what they do, and plant a high explosive device onto the obelisk to destroy it along with the forge. 
+
+The team are re-introduced to Elyssa, the Kolective official overseeing the operation, Eesk, the Kobold Bomb expert, and Tyreen, a powerful caster who can transport the team near the objective, before being given a lump of gold to buy and prepare for the operation.
+
+In turn, the team set up a plan:
+
+After scouting for a day or two to understand the outposts operation, they lure our a small detachment with a nearby camp soke signal. After knocking one out and dispatching the rest, cast Mental Map and Duplicate on them to learn everything they need and have a spy in their ranks, equipped with drugged smoke bombs. 
+
+They then drink invisibility potions and sneak into the control room, jam the door shut and execute everyone inside while the duplicate drug-bombs the gathering reinforcements for the fight to roll to the main external area. With two areas cleared and hopefully no reinforcements on the way, rush the forge to clear our the final unaware survivors to give them time to rummage for everything the place has.
+
+What could possibly go wrong!
+### Session 36
+The team get shopping for their kit, hunting down everything they need and crafting their devices before being transported to the wilderness a while out from the forge. On their way, they can't help but notice a local deer is following them and us rather unskittish for a typical prey animal. 
+
+Taking a gamble, Eaone reaches out to the deer with a greeting, at which the druid reveals themselves, asking to know their allegiance to the nearby forge, as they have been incredibly hostile to nature in the area. The team express their goals of the forges destruction, and the druid offers them a safe space to stay if they help with their hunt for a Mokele -  a rare and elusive giant lizard that has moved into the territory.
+
+Kealam, friend of dragons, then proceeds to roll 4 natural 20's to hunt down the giant lizard, finding its hidden lair in an underwater cave, which they inform the druids about upon returning to the grove, discovering the circle of druids here who seem to be studying and perfecting a perfect wild shaping transformation in both visual and behaviour
+
+### Session 37
+With a safe space to spend the night the crew take leave to the forge to begin scouting operations. Before they head out however, the druids inform them that they have some sort of detection system that lets them know about living creatures that get near. 
+
+With this, the crew find with Kaleams heightened perception a small device that sends a signal when a living creature crossed its invisible beam set up in a basic circle, at which they easily disable one of them in the chain to allow passage in and out.
+
+Using Izumi's invisible minion combined with the ability to share vision to roam around the grounds unseen, they get a headcount and isolate the leader and discover how the ritualists summon reinforcements and cycle the guard every hour with a portal. They also learn how a gateway to the elemental far lands to run the forge and the prevention of draconic interference. Nothing major that will change their plans, but valuable information none the less
+
+The crew step away and prepare to execute their master plan...
+
+#### Session 38
+The fire lit and the plan begun, a scouting crew quicky fall to the party's hands. However they are momentarily distracted by a strange crystal that appears when the wizard dies, seeming to capture their soul. Euphrosyne pockets one from the unconscious goon before getting back on track.  Invisibility potions drunk and and arriving in the control room, the party make work of the control room, alerting the external guards as expected, now having a time limit on when reinforcements arrive. 
+
+The boss takes a while to drop but the rest of her goons drop like flies, the squad clearing out the wizards without much issue as spells fail to do meaningful damage, crystals flying up and charging with every strike.
+
+A time limit that seems to get delayed as a critical persuasion check by the double controlled by Eaone, leading the crew into the unaware forge where the elemental realm portal ritualists resides, alerting them to the issues on the other side of the foundry in an attempt to drug them too, an attempt that fails and groups every ritualist together for the upcoming fight... 
+
+#### Session 39
+The brawl continued, the crew making fast work of the stragglers grouped around the door and their burst of harm spells - and for good reason, the ritualists in the forge were summon reinforcements and they are against the clock. Sprinting across the courtyard at unreasonable speeds and a Gust of wind ambush defeated, the crew start culling the numbers, but not soon enough to prevent an automaton entering the fight.
+
+the reinforcements lasted 2 rounds before the portal could be forced closed, two huge automaton frames controlled by a single core providing an actual threat between the swarm of novice wizards. The fight ends with the party victorious and many wizards dead - its unknown how much time they have, but they have the time to start stripping this legendary forge for anything it has
+
+### Session 40
+The team find themselves having to wait for the forge to generate Oblilum at a painfully slow rate, with every minute they spend there risking reinforcements who could sabotage the bomb they intend to setoff - but first they have to deal with a new issue that's showed up - A red dragon - one that seems to know kealam
+
+A conversation happens in draconic as the rest of the team preps to defend themselves - with Kaelam having to rapidly explain that they're not working with Elara, the portals open because they don't know how to close it. The dragon then transforms into their visage form and introduces themselves as Dusaph in very struggled common and invite them to join him in the elemental realm to work out the story they've been told about our party vs the truth. A Trip the Hatter can't take, and take theirs leave to go hunt down "The other half of the story"
+
+The team does buy enough time with what goodwill they have to collect what Oblilum they can - with Euphrosyne finding a way to get the forge to dump everything it has in stockpile, jamming it in the process but giving them enough material to make themselves more than they could have asked.
+
+Taskalak - an Adult Black dagon grants the team enough ground to protect them from the heat of the farlands before offering them a ride through the elemental realms, arriving at the the farlands Border City of Far'setto'ard'ndsis - where the crew try and find somewhere to stay temporarily while meetings are organised - meeting the scientist Dezshara, who seems as excited to see outsides as they are to see them.
+
+It becomes quickly apparent though that this city is not designed for them - and while attempts are made to offer the old miserable tomebound research buildings as housing, the team find an appropriate place to set up Gourdy-house and rest for what should be the night. 
+

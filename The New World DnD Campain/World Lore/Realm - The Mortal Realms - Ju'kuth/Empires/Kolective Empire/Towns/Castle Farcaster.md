@@ -1,29 +1,29 @@
 #### Overview
-Isolated on the North east isolated island, Castle Farcaster is well maintained remnant of the old war. While previously a bastion that overlooks the sea and waterways into the Kolective, its now a fully functioning small village that lives inside its walls, maintaining the traditions of protection that the honoured Warband upkeeps. 
+Isolated on the northeast isolated island, Castle Farcaster is well maintained remnant of the old war. While previously a bastion that overlooks the sea and waterways into the Kolective, it's now a fully functioning small village that lives inside its walls, maintaining the traditions of protection that the honoured Warband upkeeps. 
 
 #### Architecture
-The castle is a relic and marvel of its time. The outer walls are thick but contain and protect the city within them, literally. with a small air gap protecting them from the outside elements, the walls are thick enough to contain houses and stores. In turn these houses are thin but long, decorated more like a modern mobile home .
+The castle is a relic and marvel of its time. The outer walls are thick but contain and protect the mini-town within them, literally. A small air gap protects them from the outside elements, and the walls are thick enough to contain houses and stores. In turn, these houses are thin but long, decorated more like a modern mobile home.
 
-The castle itself is a well-maintained century old relic that shows both the efficiency and flare of the Kolective army. complete with a grand hall, armour and full round table. The portcullises has full access, each with lookout towers overseeing as much of the ocean and waterways as can be, minus the mountain blockage. 
+The castle itself is a well-maintained century old relic that shows both the efficiency and flare of the Kolective army. complete with a grand hall, armour and a full round table. The portcullises have full access, each with lookout towers overseeing as much of the ocean and waterways as can be, minus the mountain blockage. 
 
-The main courtyard reflects the industrial war machine it was designed around. Instead of a large social garden there's a huge forge, big enough to to be manned by a full organisation. 
+The main courtyard reflects the industrial war machine it was designed around. Instead of a large social garden, there's a huge forge, big enough to be manned by a full organisation. With time, however, the isle has become less popular to live in due to distance to the main roadways and reliance on water connectivity, making this former town more of a tourist location than a settlement
 
-Around the castle are Nullberry generators, aura generators that mitigate or removes magical effects entirely.
+Around the castle are Nullberry generators, aura generators that mitigate or remove magical effects entirely.
 #### Culture
-Manned by the "Wolf Guard", they are one of the Kolective's three honour warbands. While they upkeep the honoured traditions that surround Castle Farcaster. These duties include:
+Manned by the "Wolf Guard", they are one of the Kolective's three honour warbands. While they uphold the honoured traditions that surround Castle Farcaster. These duties include:
 
 • Ocean counting - Counting what flags are being flown on the ships in and out of the bay
 
-• Island Patrol routes - The island is open to the public but patrol routes to ensure the islands security are still maintained. There are dedicated routes that are maintained with time checks to meet and phrases to share, however these are often more lax
+• Island Patrol routes - The island is open to the public, but patrol routes to ensure the island's security are still maintained. There are dedicated routes that are maintained with time checks to meet and phrases to share; however, these are often more lax
 
 • Castle and Equipment maintenance - The crew craft, upgrade, maintain and support their own equipment. 
 
-While the island is technically open to visitors, the travel area and maintenance as a military function limits civilian access to the island to the castles and the main paths. 
+While the island is open to visitors, the travel area and maintenance as a military function limits civilian access to the island to the castles and the main paths. 
 #### Imports and Exports
 
-The castle is funded entirely via imported goods. The practice spawns from both the importance of the island's defensive platform. if the island was over-run, needing to be sustained externally would be a borderline impossible task for an outside force to upkeep without exposing significant supply line weakness due to the distance.
+The castle is funded entirely via imported goods. The practice stems from both the importance of the island's defensive platform. If the island were overrun, needing to be sustained externally would be a borderline impossible task for an outside force to upkeep without exposing significant supply line weakness due to the distance.
 
-In turn, a lot of the imports are mostly short-life foods and resources to maintain the traditions and upkeep of the castle, as well as any effects the crew requests within budget. In turn, the crews effectiveness often leaves excess material.
+In turn, many of the imports are primarily short-lived foods and resources to maintain the castle's traditions and upkeep, as well as any effects the crew requests within budget. In turn, the crew's effectiveness often leaves excess material.
 
 #### Cuisine
 

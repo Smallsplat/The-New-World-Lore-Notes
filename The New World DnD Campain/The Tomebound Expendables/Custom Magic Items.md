@@ -140,3 +140,11 @@ The plant's abilities have very few bounds, but must be within the plants physic
 A small-globe shaped object with a mimicry of the night sky directly above. A small gear on the side when twisted projects the display out of the globe and into the space around it as 3 dimensional figments in a 25ft space around the globe. This can continue to scale up as twisted further, however projections 25m away from the globe disappear. 
 
 Due to the nature of the scale of this cosmos, in the mortal planes the initial projection causes a rush of visible stars to eject from the orb immediately, requiring a DC 15 reflex saving throw or be dazzled 1 to anyone looking directly at the globe. 
+
+Limiters, include all that apply:
+• Improving Action economy - 2 or more actions/time to activate or use
+• Replicating Spell or Effect - Consumable, Use Spell as base, Limit to current max spell level to a max of 5, Once per day
+• Curing, Healing, Status Or Ailment effect - Limited Quantity Per Duration Effects
+• Buffing, Status or Ailment Effect - Limited Duration
+• Primary Stat Increases - Outright excluded
+• Skill Stats Increases - Equal to Item level cap of your current level

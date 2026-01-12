@@ -1,35 +1,185 @@
 
-### Euphrosyne's Parents letter
+Asctiatarti Blessing
 
-Our Dear Euphrosyne,
+**Dusaph** will land next to the crew and apologise for the delay, and will offer a tour to the few amenities they have out here. He will go to take off again before realising all the flight based stuff isn't an option before stopping to think on what to do. 
 
-Your hope for a dramatic reveal of this letter seems as hopeful as your claims of a lord of a realm you refuse to enter. 
+While they do they will meet **Natoroko** (Male Female , **Talisloso** (Drakonid Female)and **Falirino** (Drakonid Centaur Male) who will use Dusaf as an excuse to say hello to the mortals who will suggest places to visit
 
-The strength your mortal realm explorations are noted, all be it with the understanding of its fragility and temporary nature as is the curse of all of mortals petty creations. Ones as important to the ongoing of the summer courts can't merely wander into the mortal realms to seek audience with our selfish, self-centred daughter - especially when we have to deal with the fallout of your little show. And trust us when I say this - it is a show. One that many are eagerly watching. 
+**Natoroko** a bashful a Drakonid and charged in storage due to their fascination with valuables and items - while combat isnt their thing, the valueables they leave behind and the bounties of the world is their main love.
 
-As your eternal guardians, let me give you advice you clearly need - return now at the peak of your influence, with lavish mortal gifts, and we can still spin this into a story that can play into our hands. 
+**Talisloso** is a proud and well-build Drakonid female who knows her worth and will happily spar practice with anything she can - She takes pride in defending the farlands and proving herself stronger than others in every way, but also loves colourful and shiny things
 
-If not, I shall no longer insult you with mere mercenaries. The goals of the summer court are bigger than this.
-
-Your father, cold rain on a warm eve, harbinger of twenty treaties, bringer of the summer sun, wielder of the fey furies Lord Munin of the Summer Courts
-
-
---- hidden letter
-
-Dearest Euphrosyne, first to the fray, our gift of the midsummer court! - ♥
-
-Your father is uptight and singularly aligned - he does not see how your ventures into the mortal realm is a greater good for all of us, yourself included... but only if you return home some day safe.
-
-I don't pretend to understand. I won't pretend to not be disappointed, but I won't lie by saying that your course is not one I support as long as your own safety is secured. You can still bring great pride to the house of the summers - word is our lord of stories is with you now - something your father can't say has happened to him yet.
-
-As an aside, your messenger is a swift and proficient at their work. Not enough to avoid my notice, obviously, but I have left them a gift to get to your hands when appropriate. I couldn't live with myself if I didn't at least try and ensure your safety. 
-
-Lady Ember, truth of the western wilds, judge of seven courts, and creator of the mortal fighter! - Your mother.
-
-p.s I am still furious at you at you encase my honeyed words made that tone too sweet. 
+**Falirino** is a flirtatious, joyful yet yet smaller Drakotaur who will always seek the positive and good vibes in anything. They live life to the best and want everyone around them to do so too as long as it doesnt hurt or harsh the vibe. 
 
 ---
+Locations
+**Talisloso** will offer to spar with them because she's always wanted to fight mortals who look like they would float in their air planes. The other two will note how they would enjoy watching but they've been beaten too many times to find joy in it - Falirino wouldnt mind getting to see how the mortals work up close but Natoroko will entierly opt out without any rewards to get
+
+**Falirino** will note about the **hot cycles** they use to relax and bath - This will give Talisoso an opperunity note the garments the crew wears, asking if it was normal for all mortals to wear those even in this heat - Falinario will take any opportunity to flirt but  **Dusaph** notes how that doesn't seem very emotionally in sync with recent events and should only go if the crew want to. 
+
+**Natoroko** will suggest visiting the local Cysrtalirums to see if theres anything of particular value being grown. The other two will call him a massive nerd, at which he'll note that there is dragon racing in the amphitheatre , but that's mostly just watching events rather than doing anything - unless they have anything they wanted to use to gamble on who wins. Falinario will always offer a good time, but may have some more physical objects he'd be willing to part with - as will Talisloso.
+
+Whatever the crew do the event will be Interrupted by a dragon roar and the dragon friends they've made looking on high alert, dropping hat their doing to go sort their heat plating - noting this is an alert for an elemental surge, and given the warning, oddly close to the city. If the crew offer to help we go into combat where the party will fall into the **Ruins of the Asctiatarti Communion**
+
+---
+**Ruins of the Asctiatarti Communion**
+
+The Asctiatarti Communion is a time-lost dragon-church between the Fae Lord Titania and The Dragon Ancient Asctiatarti - it contains:
+
+A gaint statue of the fae Titania with her paramour 
+
+A portal in disrepair, gigantic in nature which runes imply a direct connection to the fae wilds
+A huge communion hall, filled with plenty of space for dragons to fly and roost and seating fit for fae. 
+
+The amount of effort made to fit creatures of all kindas here comfortable is asonishing, the sheer amount of ancient furniture that fits centaurs, fawns, fariys, bugbears, crones and all sorts of fary creatures 
+
+The space seems abandoned, not destroyed - yet the rock that covers it seems purposefully placed. This place was hidden and forgotten intentionally.
+
+The dining halls seems more like a suggestion than a grand hall - there arn't enough tables to seat as many people as could fit in the ceremony hall however the sheer amount of arcane residue implies arcane solves a lot of their needs
+
+Huge viewing areas that seem unaccable line the walls - rooms for fragments of the primordial themselves to be in 
+
+---
+
+Titania in the fey wilds isn't real - its a name mocked and taboo to claim for yourself. She's the Tall Tale, the Fey Story, the mortal troublemaker - but here she's being presented as a very real fae lord. Its a part of fae culture that's so baked into its roots that it takes mental effort to not immediately dismiss this as some fae trick 
+
+The party will find themselves able to open magically sealed doors due to their blessing - but will "Spend" the blessing which lets them access items - however its up to them if they take them or not. This includes:
+
+• Evergarden
+• Gift Vault
+• Dressing Rooms
+• Custodial Office
+• Private Chambers
+
+
+Dragon's Virtue (item that lets dragons to bonus to enemies effecting by fae)
+Feys Trickery (^ this but opposite)
+
+---
+
+**Dezshara** will be there, having been a core part of inventing a device that can track portals in the farlands due to rapid elemental shifts. They will be estatic to see kaelam alive and well, and also excited to use and practice their common with mortal folk. They will give kaelam a handful of books - many follow ups 
+
+---
+**Dusaph** will meet with the crew in visage form with an arm-full of scrolls of Comprehend language modified to last a reasonable amount of time so they can use draconic to speak - which when translated sounds like very fast common. He will note about how the City Ancient is expecting them to discuss what is going on,
+
+
+Dragon Elder Tre'ragon will meet with the crew to get their first hand accounts on what they have learned and their ties to Elara - they will learn that the party is from what nthey know - a big part of the tomebound story of Elaras plot is how they are a part of Elara's escape, how Elara and his closest allies are outlaws to diswade others joining their cause
+
+The issue is that if the party is telling the truth, we don't know how effective this branch of propaganda is at keeping Elaras support low within the tomebound. He will convene with the other ancients to discuss everything they know and work out how to move forward - however, fundamentally, they are still outsiders to the elemental realms and are Dusaph's responsibility.
+
+The team are given leave as the ancient takes off towards the origin as Dusaph shrugs and offers them a proper tour of the city now that they're at least trusted enough to not be Elaras agents in the city.
+
+Unlike the citys of mortals, the cities in the fire realms are mostly accommodations and utilitarian - as dragon bodies are incredibly resistant and can feed of the ambient energy food places are limited, and a lack of many basic needs and the community welfare for the flight makes stores non-existent. The few buildings of note are community spaces, luxuries and funcational buildings - Hangout locations, places to relax - scientists and warehouses. 
+
+Many more dragons will be curious about our mortal parties with those who they meet talking about:
+• What its like to have scales
+• Do kin care about kin in the same way dragon flights work?
+• What's eating like?
+
+Yaskit
+Ralnimo
+Wrastilak
+
+
+---
+
+Dragon Elder Tre'ragon will bring council to the party when it feels fitting, and will discuss and address the party and hear their story. witha  heavy heart he will have to banish kealam to keep the tomebound peace, too much is at stake. He will report the discoverys to the other elders  of the other realms, and confront the tomebound of the lies and why they stand. 
+
+Charlie will arrive with a portal opened by magiscale to collect the crew after scout informed the guild about whats happening, ending up on a tiny island as close to the timebound as possible, at which they will vibe on the quiet, serene beach together
+
+
+
+Taskalak
+
+### Heist
+
+Commanding Wizard Ananke
+
+Wizards report to the commanding wizard upon any event of note. 
+
+Worker automatons are working the forge, however don't respond to stimuli unless directly hacked or controlled via console. 
+
+Most wizards are there entirely for security and force, with a few notable exceptions:
+> Portal ritualists - These wizards don't rotate and their main role is to ritually open a runed portal to cycle wizards in and out. 
+> Outpost Managers - Most of their spells are set for restoring and maintaining the cult. The creation of food, the healing of injuries, the curing of blights. 
+> Obelisk Surveyors - More important wizards who actively balance the obelisks creation. 
+
+The wizards main objective is to keep the forge running, this requires:
+• Keeping all wildlife out of the forge
+• Reporting Automaton mishaps
+• Ensuring no opportunists try something
+
+#### Loot:
+Resources:
+> Oblilum - An arcane compound of obsidian and Djezet, only able to be forged with the pure elemental arcane energy of the fire realm unbound, it alone is a powerful arcane conductor, but if often attuned to a particular realm of magic to heighten its already potent effects
+> > Grants a +1 item bonus to spell DC when forged into a spell focus and your spells are heightened as if you were 1 level higher
+> > • This effect is doubled for a specific magic type if attuned to it, attunement must be done Immediately after the forging process in the presence of its layline
+> > When used as a spell focus by a caster within a ritual, the caster counts as two people
+
+> Around 150GP of arcane ingredients used in alchemy and as spell components 
+
+Ananke has a [Diplomat's Badge](https://2e.aonprd.com/Equipment.aspx?ID=3078) and [Pristine Epaulets](https://2e.aonprd.com/Equipment.aspx?ID=3975)
+
+• [Spy Staff](https://2e.aonprd.com/Equipment.aspx?ID=2259)
+
+Scrolls:
+• [Warp Step](https://2e.aonprd.com/Spells.aspx?ID=1166)
+• [Telekinetic Hand](https://2e.aonprd.com/Spells.aspx?ID=1715)
+• [Stabilize](https://2e.aonprd.com/Spells.aspx?ID=1689) (x2)
+• [Light](https://2e.aonprd.com/Spells.aspx?ID=1585) (x2)
+• [Illuminate](https://2e.aonprd.com/Spells.aspx?ID=1359) (x4)
+
+• [Darkvision](https://2e.aonprd.com/Spells.aspx?ID=1481)
+• [Dispel Magic](https://2e.aonprd.com/Spells.aspx?ID=1493)
+• [Environmental Endurance](https://2e.aonprd.com/Spells.aspx?ID=1517) (x7)
+
+
+• [Cordelia's Construct Key](https://2e.aonprd.com/Equipment.aspx?ID=884)
+• [Winder's Ring](https://2e.aonprd.com/Equipment.aspx?ID=1596)
+
+#### Notes
+
+• Operation details:
+> • Run the obelisk forges to create smaller obelisks, strong enough to replace a spellcaster in a ritual spell but small enough to not give away their main operations
+> • All cultists must be on guard for Automaton tampering and opportunistic parties in the Tomebound Wilderness - All wildlife should be dealt with accordingly.
+> • Forces will be rotated regularly to familiarise themselves with the Right Hands and to prevent giving groups enough time to form smaller unions 
+
+• Smaller details
+> • All cult members have Soul Crystals that entrap their souls on death so that they can be revived for their loyalty upon Elara's Enlightenment
+> • Automatons are not to be touched aside by dedicated specialists - anyone found tampering with them are traitors and dealt with accordingly
+> • A few notes of conversations talk about a "Location E", a seeming point of importance that has been kept top secret and talked about only in code
+
+• Research notes by Ananke
+The soul crystals we were given versus the rest of these wizards are subtly different to a trained eye. They are reluctant to give them to me for study as they believe if it their lifeline - a tool that lets them fight without fear, and yet... I have full faith theirs do not work. By all my estimations mine will, but these lowborn rabble will perish a permanent death. A lot of work has been put into making it look real though.
+
+Elara has not informed them or us, and I assume it is intentional. They are infested with the blights that plagues our nation, they will die for a cause that will wipe them away none the less. We will make a better world.
+
+
+[Mage for Hire](https://2e.aonprd.com/NPCs.aspx?ID=922) - Ritualist - One of them will have a "Scroll of Ritual Teleportation", spellbooks 
+
+[Gnoll Cultist](https://2e.aonprd.com/Monsters.aspx?ID=230) - Main Cultist. Base staffs, spell book of their spell list.
+
+[Boggard Cultist](https://2e.aonprd.com/Monsters.aspx?ID=2237) - Ananke
+
+
+
+--- 
+
+
 #### Events:
+
+• The players will be followed by deer that don't seem as skittish as they should be
+> Reveals to be nearby druids who are trying to sus out if the crew is part of whatevers going on at the forge
+> Will offer shelter, food and a safe place to rest if they can help them find an elusive creature a - Mokele
+> The druids are trying to find its lair to study it and add it to their circles collection of wildshapes
+
+The druids circle is a mystical grove deep into the Tomebound wilderness, filled with creatures that are, upon deeper inspection, just druids who pride themselves in their realism and precision 
+
+
+
+
+
+
 
 Amathist meeting:
 • Elysia is there to oversee the operation being generally unhappy about everything
